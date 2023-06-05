@@ -1,0 +1,5 @@
+effect event
+event type: Consult
+event time: 2022-05-05
+subject name: CARTEL
+object name: OPEC

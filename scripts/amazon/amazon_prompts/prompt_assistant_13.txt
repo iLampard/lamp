@@ -1,0 +1,21 @@
+cause event 1
+product category: Men Clothing
+product title: IZOD Men's Big and Tall Classic Denim Jeans (Regular and Relaxed Fit)
+event time: 2014-12-01
+summary text: Izod Makes Great Jeans
+review text: Izod did it again! This time they made a great pair of jeans in an understated manner. They fit perfectly and are also very roomy with space to spare. The fabric has a nice soft feel but holds its form very well. And they didn't seem to shrink after one washing (and I know I didn't lose any weight!). These jeans can be worn on special occasions as well as for physical activities. I love them and couldn't ask for anything more. Also the price is fair and probably hard to beat. Try a pair. I think you'll be delighted. Lastly they are well packaged and arrive on time. A hard act to beat.
+
+cause event 2
+product category: Men Clothing
+product title: Fruit of the Loom Men's Pocket T-Shirt Multipack
+event time: 2014-11-23
+summary text: A Solid Fairly Priced Tee Shirt
+review text: This was a very good purchase. The material is both soft and strong. It fits well with plenty of room. It holds its shape well and even comes with a handy pocket in front. They appear to be made to last because they seem very durable. As if these were not sufficient
+reasons to buy these shirts, the price is very good and fair. I recommend these Tee shirts, even for all year round wear (layered).
+
+cause event 3
+product category: Men Clothing
+product title: IZOD Men's Big and Tall Pleated Extended Twill Pant
+event time: 2014-07-30
+summary text: To Iron or Dry Clean is the Question
+review text: The company is reputable and they make a good product. The material is soft and the workmanship seems quite good; these are not pants that were "thrown together". They are also very comfortable even at the end of a long day. The only minor fault is they don't seem to be wrinkle-free. I know I could wash them, dry them for a few minutes, and" iron " if needed but I prefer to take them to the dry cleaners. I still highly recommend them particularly for the comfort factor.

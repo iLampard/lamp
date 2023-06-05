@@ -1,0 +1,27 @@
+cause event 1
+event headline: White House: Europe Determined To Ban Russian Energy Exports
+event type: REDUCE RELATIONS
+event time: 2022-04-22
+subject name: EUROPE
+object name: RUSSIAN
+
+cause event 2
+event headline: oil prices rise as europe weighs additional russia sanctions
+event type: Engage in material cooperation
+event time: 2022-04-04
+subject name: INVESTOR
+object name: YEMEN
+
+cause event 3
+event headline: G7 countries, including Canada, reject Russia's demand to pay for gas in rubles: Germany
+event type: Reject
+event time: 2022-03-28
+subject name: UKRAINE
+object name: RUSSIA
+
+cause event 4
+event headline: Russia orders troops into rebel-held regions in Ukraine
+event type: Make statement
+event time: 2022-02-22
+subject name: RUSSIA
+object name: REBEL

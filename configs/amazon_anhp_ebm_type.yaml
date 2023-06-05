@@ -1,0 +1,28 @@
+base_model: anhp
+dataset: amazon
+pred_type: type
+
+model:
+  name: anhp
+  hidden_size: 64
+  time_emb_size: 8
+  num_event_types_no_pad: 24
+  num_event_types_pad: 25
+  event_pad_index: 24
+  num_heads: 4
+  num_layers: 1
+  dropout: 0.3
+  sharing_param_layer: False
+  use_ln: False
+  mc_num_sample_per_step: 20
+  train:
+    num_epochs: 50
+    lr: 0.0007
+    batch_size: 8
+    loss_function: bce
+  thinning_params:
+    num_seqs: 100
+    num_samples: 1
+    num_exp: 500
+    look_ahead_time: 10
+    patience: 5

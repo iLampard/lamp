@@ -1,0 +1,16 @@
+numpy
+pandas
+dill
+
+# news scraper
+feapder
+newspaper3k
+
+# gpt
+openai
+
+torch==1.8.1
+scikit-learn
+dictdatabase
+sentence_transformers
+Levenshtein

@@ -1,0 +1,34 @@
+cause event 1
+event headline: Int'l flights to Shanghai rescheduled amid COVID-19 resurgence
+event type: Appeal
+event time: 2022-03-16
+subject name: SHANGHAI
+object name: CHINA
+
+cause event 2
+event headline: Saudi Arabia lifts most Covid restrictions including quarantine for vaccinated arrivals
+cause type: EXPRESS INTENT TO COOPERATE
+event time: 2022-03-06
+subject name: TRAVELLER
+object name: KINGDOM
+
+cause event 3
+event headline: Tesla halts work at Shanghai fentityy for two days amid China COVID curbs
+event type: ENGAGE IN MATERIAL COOPERATION
+event time: 2022-03-16
+subject name: SHANGHAI
+object name: GERMANY
+
+cause event 4
+event headline: China Mandates COVID-Zero Policy in Shenzhen; Locals Struggle to Source Foodng of Ukraine invasion
+event type: Make statement
+event time: 2022-03-05
+subject name: CHINA
+object name: CHINA
+
+cause event 5
+event headline: China welcomes 2022 with the worst week of COVID-19 dominating the virus
+event type: Reject
+event time: 2022-01-01
+subject name: XIAN
+object name: AUTHORITIES

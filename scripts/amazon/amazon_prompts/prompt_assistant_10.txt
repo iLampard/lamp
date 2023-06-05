@@ -1,0 +1,27 @@
+cause event 1
+product category: Women Jewelry
+product title: 1928 Jewelry Filigree Teardrop Chandelier Earrings
+event time: 2014-07-25
+summary text: Five Stars
+review text: Love these earrings.  They are just gorgeous.  I like that they are not super big.  Love 1928 fashion jewelry.
+
+cause event 2
+product category: Women Jewelry
+product title: 1928 Jewelry Gothic Cross Stretch Bracelet
+event time: 2014-07-25
+summary text: 1928 Gothic cross Blue Twilight Bracelet
+review text: I am crazy about bracelets and this one is very beautiful.  I like the hematite band and the stones shine in the light with crosses in between.  I like 1928 jewelry and have quite a bit of it.  Happy to have this gothic bracelet.
+
+cause event 3
+product category: Women Jewelry
+product title: Sterling Silver "Sweet 16" Heart Locket Necklace, 18"
+event time: 2014-07-25
+summary text: Sweet 16 Locket
+review text: Very pretty and dainty locket.  I got this for my daughter for her birthday in a couple of weeks.  I'm sure she will just love it.
+
+cause event 4
+product category: Women Jewelry
+product title: 1928 Jewelry Vintage Crystal Drop Earrings
+event time: 2014-06-29
+summary text: Beautiful blue earrings
+review text: Looks so pretty with the necklace.  Beautiful set.

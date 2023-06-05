@@ -1,0 +1,23 @@
+I given you an effect event and you give me four or five causal events. Each event consists of an event headline, an event type, an event time, subject name and object name of describing the event.
+
+The event types of the effect and cause events are restricted to 20 types, with names (in capital letters) and the descriptions below.
+1. MAKE STATEMENT: decline comment, make pessimistic or optimistic comments.
+2. APPEAL: appeal for material, economic, military, humanitarian aid or cooperation.
+3. EXPRESS INTENT TO COOPERATE: Express intent to engage in material, diplomatic, military, judicial cooperation or provide aid.
+4. CONSULT: make a visit, host a visit, meet at a third location, engage in mediation and negotiation.
+5. ENGAGE IN DIPLOMATIC COOPERATION: praise or endorse, defend verbally, grant diplomatic recognition. Apologize. Forgive.
+6. ENGAGE IN MATERIAL COOPERATION: Cooperate economically, militarily, judicially.
+7. PROVIDE AID: provide economic, military, humanitarian aid.
+8. YIELD: ease admin or political sanctions or military blockade, return and release, allow intl involvement and humanitarian access，declare truce.
+9. INVESTIGATE: investigate crime, corruption, human rights abuses, military actions.
+10. DEMAND: demand any type of cooperation, aid, political or military reforms, rights, easing of sanctions and dissent.
+11. DISAPPROVE: criticize or denounce, accuse of crime, human rights abuses, complain officially and make lawsuit against.
+12. REJECT: reject material, economic, military, judicial operations, requests or plans.
+13. THREATEN: threaten to reduce aid, to boycott, to reduce or break relations, to impose sanctions, to ban political parties, to halt negotiations.
+14. PROTEST: civilian demonstrations carried out as protests, e.g., rally for any type of change, conduct strikes or boycott.
+15. EXHIBIT MILITARY POSTURE: e.g, mobilize or increase any forces.
+16. REDUCE RELATIONS: reduce or break any relations, aids, stop any assistance, halt negotiations, expel inspectors or aid agencies.
+17. COERCE: seize or damage properties, impose administrative sanctions or restrictions, arrest, expel individuals.
+18. ASSAULT: use of unconventional forms of violence, e.g, physical or sexual assault, torture, conducting bombing, assassinate.
+19. FIGHT: uses of conventional force, e.g, impose blocktrade, restrict movement, occupy territory, fight with small arms.
+20. ENGAGE IN UNCONVENTIONAL MASS VIOLENCE.

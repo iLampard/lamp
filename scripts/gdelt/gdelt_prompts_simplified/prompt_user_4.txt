@@ -1,0 +1,5 @@
+effect event
+event type: ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-02-22
+subject name: JOE BIDEN
+object name: RUSSIA

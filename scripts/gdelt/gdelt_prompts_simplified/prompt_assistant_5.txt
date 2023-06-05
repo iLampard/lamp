@@ -1,0 +1,34 @@
+cause event 1
+event headline: china adopts russias denazification myth to rationalize invasion of ukraine
+event type:  Appeal
+event time: 2022-03-06
+subject name: CHINESE
+object name: TAIWAN
+
+cause event 2
+event headline: Biden seeks to inflict economic pain on Putin; avoids bigger war
+event type: Disapprove
+event time: 2022-03-06
+subject name: UKRAINE
+object name: RUSSIA
+
+cause event 3
+event headline: Visa, Mastercard Grant Zelensky's Request, Ban All Operations in Russia
+event type: Reduce relations
+event time: 2022-03-05
+subject name: MASTERCARD
+object name: RUSSIA
+
+cause event 4
+event headline: Visa, Mastercard Suspend All Operations in Russia Effective Immediately Over Ukraine Crisis
+event type:  Appeal
+event time: 2022-03-05
+subject name: MASTERCARD
+object name: REGULATOR
+
+cause event 5
+event headline: Biden imposes sanctions against Russian oligarchs, banks for beginning of Ukraine invasion
+event type:  ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-02-22
+subject name: JOE BIDEN
+object name: RUSSIA

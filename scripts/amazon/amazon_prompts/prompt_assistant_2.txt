@@ -1,0 +1,20 @@
+cause event 1
+product category: Children Clothing
+product title: NA
+event time: 2014-08-27
+summary text: lee jeans.
+review text: We have some large gkids these were a little to snug for our big boys.
+
+cause event 2
+product category: Children Shoes
+product title: New Balance KJ750 Youth Lace-Up Running Shoe (Little Kid/Big Kid)
+event time: 2014-04-08
+summary text: NEW BALANCE SHOE.
+review text: MY GRANDDAUGHTER IS HARD ON HER SHOES. THESE HAVE  AND DO HOLD UP, RECOMMEND THEM.
+
+cause event 3
+product category: Costumes & Accessories
+product title: My First Career Gear - Road Crew Toddler Costume
+event time: 2012-02-24
+summary text: Impressed.
+review text: Grand child thinks this has helped her doctoring skills considerably. Its made her happy so as a toy it did its job.

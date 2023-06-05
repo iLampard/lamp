@@ -1,0 +1,34 @@
+cause event 1
+event headline: Covid-19's death toll is nearly three times higher than reported, WHO data suggests
+event type: Engage in material cooperation
+event time: 2022-05-05
+subject name: UNITED STATES
+object name: DIRECTOR GENERAL
+
+cause event 2
+event headline: Shanghai considers more Covid-19 curbs as lockdown enters 4th week
+event type: FIGHT (Impose blockade, restrict movement)
+event time: 2022-04-25
+subject name: Shanghai
+object name: China
+
+cause event 3
+event headline: Shanghai to tough prevention measures as local COVID infections rise
+event type: Decline comment
+event time: 2022-04-23
+subject name: Shanghai
+object name: CARRIER
+
+cause event 4
+event headline: Shanghai intensifies lockdown
+event type: Express intent to cooperate
+event time: 2022-03-31
+subject name: Shanghai
+object name: China
+
+cause event 5
+event headline: Sticking to dynamic zero-COVID approach, China strives for balance of virus containment, economic development--China Economic Net
+event type: Appeal
+event time: 2022-03-26
+subject name: Shanghai
+object name: Residents

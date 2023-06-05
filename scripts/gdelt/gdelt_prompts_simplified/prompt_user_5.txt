@@ -1,0 +1,5 @@
+effect event
+event type: CONSULT
+event time: 2022-03-06
+subject name: CHINESE
+object name: RUSSIAN

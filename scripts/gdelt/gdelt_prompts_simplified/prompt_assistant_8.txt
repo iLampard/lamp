@@ -1,0 +1,34 @@
+cause event 1
+event headline: Australia imposes further sanctions on Russia
+event type: Make statement
+event time: 2022-04-01
+subject name: AUSTRALIA
+object name: RUSSIA
+
+cause event 2
+event headline: Biden seeks to inflict economic pain on Putin; avoids bigger war
+event type: Disapprove
+event time: 2022-03-05
+subject name: UKRAINE
+object name: RUSSIA
+
+cause event 3
+event headline: Switzerland backs full EU sanctions against Russia
+event type: CONSULT
+event time: 2022-03-06
+subject name: SWISS
+object name: GOVERNMENT
+
+cause event 4
+event headline: Canada ratchets up sanctions against Russia, cancels export permits
+event type: ENGAGE IN MATERIAL COOPERATION
+event time: 2022-02-25
+subject name: CANADA
+object name: RUSSIA
+
+cause event 5
+event headline: Biden imposes sanctions against Russian oligarchs, banks for beginning of Ukraine invasion
+event type: ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-02-22
+subject name: JOE BIDEN
+object name: RUSSIA

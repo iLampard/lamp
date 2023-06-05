@@ -1,0 +1,20 @@
+cause event 1
+product category: Children Shoes
+product title: New Balance Kid's KV689 Running Shoe (Little Kid/Big Kid)
+event time: 2012-10-22
+summary text: little girl shoes
+review text: Received the shipment on time. My granddaughter thought these were really beautiful, I thought they were well built and should outgrow her long before they may have to be discarded. I have purchased this brand in the past and have been well satisfied.
+
+cause event 2
+product category: Children Shoes
+product title: New Balance KA688 Alternative Closure Running Shoe (Little Kid/Big Kid)
+event time: 2012-03-18
+summary text: good deal
+review text: These are a good brand, a good fit and a good buy. Recommend shoe and company. Grand daughter loves them
+
+cause event 3
+product category: Costumes & Accessories
+product title: My First Career Gear - Road Crew Toddler Costume
+event time: 2012-02-24
+summary text: Impressed
+review text: Grand child thinks this has helped her doctoring skills considerably. Its made her happy so as a toy it did its job.

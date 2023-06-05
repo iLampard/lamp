@@ -1,0 +1,27 @@
+cause event 1
+product category: Children Shoes
+product title: New Balance KE420 Y Lifestyle Running Shoe (Little Kid/Big Kid)
+event time: 2013-10-16
+summary text: Great Value
+review text: New Balance is our favorite tennis shoe brand, and I bought several pairs of these for my kids to wear back to school.  They make great athletic and everyday shoes with good foot support for them.
+
+cause event 2
+product category: Women Clothing
+product title: Mizuno Select Belted Low Rise Fastpitch Pant
+event time: 2013-07-03
+summary text: Stylish and Athletic
+review text: Great fit and fabric quality.  My daughter will get years of use out of these.  Color is pretty "bright" too, but that is what we were looking for to match her school color blue.
+
+cause event 3
+product category: Women Shoes
+product title: Mizuno Women's Finch Franchise 4
+event time: 2013-06-05
+summary text: Our 2nd Pair
+review text: My daughter swears by these.  So much so that it's her second pair in 3 years.  Love the vibrant pink color and great on field performance to keep her from slipping or losing traction.
+
+cause event 4
+product category: Children Shoes
+product title: New Balance YB4040 Baseball Cleat (Little Kid/Big Kid)
+event time: 2013-05-08
+summary text: Great value for a great brand
+review text: My son claims these make him run faster.  Very comfortable as is to be expected with New Balance.  I purchased a half size larger to ensure he has room to grow, and the fit is no concern.  Very stylish cleat too.

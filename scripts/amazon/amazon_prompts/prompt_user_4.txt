@@ -1,0 +1,3 @@
+effect event
+product category: Men Shoes
+event time: 2014-11-19

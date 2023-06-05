@@ -1,0 +1,5 @@
+effect event
+event type: Provide aid
+event time: 2022-03-29
+subject name: SHANGHAI
+object name: RESIDENTS

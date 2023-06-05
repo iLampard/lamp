@@ -1,0 +1,5 @@
+effect event
+event type: Engage in material cooperation
+event time: 2022-04-19
+subject name: CENTRAL BANK
+object name: RUSSIAN

@@ -1,0 +1,27 @@
+cause event 1
+product category: Men Clothing
+product title: Russell Athletic Men's Dri-Power Fleece Sweatshirt
+event time: 2014-05-05
+summary text: SWEATSHIRT
+review text: I HAVE BOUGHT THIS BRAND SWEATSHIRT BEFORE AND I LIKE THEM VERY MUCH.  THEY ARRIVED WHEN EXPECTED, AND FIT WELL AND WERE IN EXCELLENT CONDITION.
+
+cause event 2
+product category: Men Uniforms, Work & Safety
+product title: Dickies Men's Big-Tall Long-Sleeve Work Shirt
+event time: 2014-03-13
+summary text: DICKIE SHIRT
+review text:I HAVE BEEN BUYING THESE SHIRTS FOR  OVER 30 YEARS.  I WORK CONSTRUCTION AND THESE SHIRTS HOLD UP.  THE SHIRT FIT WELL AND THE COLOR IS FINE.  IT IS WHAT I EXPECTED AND IAM VERY SATISFIED.
+
+cause event 3
+product category: Men Clothing
+product title: Fruit of the Loom Men's  boxer brief
+event time: 2014-03-13
+summary text: BOXER BRIEFS
+review text:THESE SHORTS ARE VERY COMFORTABLE AND FIT VERY WELL.  I WOULD DEFINATELY BUY THESE SHORTS AGAIN.  THEY ARIIVED WHEN EXPECTED AND I AM SATISFIED.
+
+cause event 4
+product category: Men Clothing
+product title: Dockers Men's 4 Pack Fly Front Full Rise Brief, White
+event time: 2014-03-13
+summary text: BRIEFS
+review text: THESE ARE A GOOD QUALITY WELL CONSTRUCTED BRIEF.  I WOULD BUY THESE AGAIN, AND RECOMMEND THEM TO OTHERS.  ARRIVED AS EXPECTED AND WERE IN PERFECT CONDITION.

@@ -1,0 +1,27 @@
+cause event 1
+event headline: Joe Biden Welcomes Visa & Mastercard's Decision To Suspend Operations In Russia
+event type:  ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-03-06
+subject name: RUSSIA
+object name: JOE BIDEN
+
+cause event 2
+event headline: Putin says Ukraine's future is in doubt as cease-fires collapse
+event type: Threaten
+event time: 2022-03-06
+subject name: RUSSIA
+object name: UKRAINE
+
+cause event 3
+event headline: Zelensky Urges US Lawmakers to Ban Russian Oil, Provide Fighter Jets
+event type:  Make statement
+event time: 2022-03-05
+subject name: COLONEL
+object name: RUSSIA
+
+cause event 4
+event headline: Marshall, Moran seek ban on Russian oil imports, urge expansion of domestic production
+event type: Use unconventional violence
+event time: 2022-03-05
+subject name: SENATOR
+object name: RUSSIA

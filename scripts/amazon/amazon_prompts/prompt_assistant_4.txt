@@ -1,0 +1,27 @@
+cause event 1:
+product category: Men Shoes
+product title: La Sportiva Men's Wildcat Trail Running Shoe
+event time: 2013-12-04
+summary text: The absolute best off-road shoes for hiking or trailrunning.
+review text: I do a ton of running on various surfaces. While I mix things up when surfaces are okay, there is only one company that makes shoes that truly hold up when surfaces get dicey: La Sportiva. I've gone through a couple pairs of Raptors (awesome shoes for all-out speed) and am on my third pair of Wildcats. I've also tried a couple of their newer shoes but have been less than impressed. The newer MorphoDynamic soles that they have been experimenting with simply do not live up to the standards set by the Wildcats and Raptors.
+
+cause event 2:
+product category: Men Accessories
+product title: Outdoor Research Sombriolet Sun Hat.
+event time: 2013-12-04
+summary text:  A hiking must-have.
+review text: This lightweight hat has become one of my favorite hiking accessories. Even when I'm trail-running in nothing but running shorts, this hat comes along. To be frank, it's one ugly hat. But I realized a long time ago that, when hiking, I need an effective hat much more than I need a stylish one. This hat can be folded and packed down into pockets or bags. It can be annoying trying to get the brim perfectly shaped once you've unpacked it, so I don't even bother any more -- it's large enough that it doesn't matter. It's incredibly light, yet stays put even on a fairly gusty day.
+
+cause event 3:
+product category: Men Shoes
+product title: Vibram Fivefingers Bikila (41 Mens, Light Grey/Palm/Dark Grey) - M345
+event time: 2013-12-03
+summary text: Best fitness purchase ever. Literally.
+review text: I've spent thousands of dollars on fitness and fitness-related products. I hike, I run, I climb, I lift, I bike... you name it, I do it. I've bought tons of equipment, gear, and nutrition/consumables. But if I had to narrow down to one ""best purchase ever"", it would be, hands down, my first pair of Vibram FiveFinger Bikilas. And not just for running; I use them for lifting (you'll never feel more balanced and connected to the floor when maxing out your dead-lifts), cross-training (they're incredibly responsive and agile), yoga (when the woman forces me to join her), you name it..
+
+cause event 4:
+product category: Men Uniforms, Work & Safety
+product title: Dozen Camo Military Bandanas, Army Camouflage Headwraps, Military Head Scarves Do-rags 100% Cotton Bandanna Covers - 12 Pack
+event time: 2011-11-22
+summary text: Cheap, Thin, Great for Gym or Hike.
+review text: I was a bit worried that these would be of too low quality to last very long. So far, I've washed all of these at least a couple dozen times, and have worn them while at the gym, while hiking, as luggage markers, to wipe up spills in a jam, and various other situations. They're not thick, but they always do the job. They also look pretty cool too, in a I'm-secretly-still-twelve-inside kind of way. Would buy again, maybe in a different pattern.

@@ -1,0 +1,30 @@
+data:
+  type: tpp
+  data_name: amazon
+  data_dir:  data/amazon/amazon_v0327.pkl
+  num_event_types: 24
+  train_end_date: 2015-06-01
+  valid_end_date: 2016-01-01
+
+model:
+  name: anhp
+  hidden_size: 32
+  time_emb_size: 32
+  num_event_types_no_pad: 24
+  num_event_types_pad: 25
+  event_pad_index: 24
+  num_heads: 1
+  num_layers: 2
+  dropout: 0.1
+  sharing_param_layer: False
+  use_ln: False
+  mc_num_sample_per_step: 100
+  train:
+    batch_size: 128
+    num_epoch: 2
+  thinning_params:
+    num_seqs: 100
+    num_samples: 1
+    num_exp: 500 # number of i.i.d. Exp(intensity_bound) draws at one time in thinning algorithm
+    look_ahead_time: 10
+    patience: 5 # the maximum iteration used in adaptive thinning

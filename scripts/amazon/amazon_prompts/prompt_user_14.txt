@@ -1,0 +1,3 @@
+effect event
+product category: Women Clothing
+event time: 2015-07-13

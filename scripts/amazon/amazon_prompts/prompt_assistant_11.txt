@@ -1,0 +1,24 @@
+cause event 1
+product category: Men Clothing
+product title: Carhartt All-season Cotton Crew Work Socks
+event time: 2015-05-09
+summary text: Quality & Comfort
+review text: Great quality sock that should last a long time.  Very comfortable in all but the most extreme climates.  I find that these Carhartt Men's socks keep my feet dry on warm days when hiking, but I would not say that these would keep wicking away the moisture in really hot and humid areas. Great for casual wear also.
+Highly recommended.
+
+cause event 2
+product category: Men Uniforms, Work & Safety
+product title: Carhartt Men's Cotton Ripstop Relaxed Fit Work Pant
+event time: 2015-04-25
+summary text: Made Tough for ANY Job
+review text: These pants will fill a much needed ability to carry items when we hike the wilderness. With many spacious pockets that can carry the necessities of comfort and survival. There are a few important items I do not trust to a pack or bag that can become separated in a fall or other event. However...outside of the workman looking for a heavy duty pair of pants, or the outdoors-man looking for the same...these pants may not be for you.
+The Carhartt Ripstop Relaxed Fit Work Pants are made TOUGH.  They will last a very long time and serve you well...they are just heavy, stiff and a bit uncomfortable to wear casually.
+Maybe after a bunch of washings they will soften over time, but I fear they are NOT to be confused with a comfy pair of jeans.
+
+cause event 3
+product category: Men Clothing
+product title: Carhartt Men's Workwear Pocket Short Sleeve Henley Original Fit Shirt K84
+event time: 2015-04-09
+summary text: Comfortable and Tough-As-Nails Carhartt Quality
+review text: Quality, comfort and style all in a long lasting Carhartt.  I may never buy another brand again...it is THAT good. I have received many compliments on this shirt from friends and family who are used to seeing me in just a comfortable pocket Tee- shirt.  Now I feel more confident going to a casual restaurant without feeling under dressed.  Great workmanship and quality materials that should last a very long time.  Love it!
+Highly recommended.

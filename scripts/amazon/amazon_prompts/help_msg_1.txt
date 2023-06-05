@@ -1,0 +1,27 @@
+I want you to do the abductive reasoning over the events that are extracted from Amazon clothing, shoes and jewelry reviews data. I given you an effect event and you give me two to four cause events that cause the effect event to happen. Each event corresponds to an review submitted by the customer, which consists of an product category(event type), a product title, an event time, summary text and review text from the user that describes the feedback of the shopping event.
+
+The product categories are restricted to the following set:
+1. Women Shoes,
+2. Men Shoes,
+3. Men Clothing,
+4. Women Clothing,
+5. Novelty & More,
+6. Men Uniforms, Work & Safety,
+7. Women Jewelry,
+8. Costumes & Accessories,
+9. Men Accessories,
+10. Luggage & Travel Gear,
+11. Men Watches,
+12. Women Accessories,
+13. Children Shoes,
+14. Children Clothing
+15. Shoe, Jewelry & Watch Accessories,
+16. Women Watches,
+17. Women Uniforms, Work & Safety,
+18. Men Surf, Skate & Street,
+19. Women Handbags & Wallets
+20. Men Jewelry
+21. Children Accessories
+22. Women Maternity
+23. Women General
+24. Others

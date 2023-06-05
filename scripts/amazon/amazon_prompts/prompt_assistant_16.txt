@@ -1,0 +1,20 @@
+cause event 1
+product category: Men Shoes
+product title: PUMA Men's Mell Es Suga Cross-Training Shoe
+event time: 2015-03-24
+summary text: Great, comfortable shoe
+review text: This shoes are soooo comfortable. My husband runs with them each morning and he said he doesn't feel a thing.
+
+cause event 2
+product category: Men Clothing
+product title: LEE Men's Stain Resistant Relaxed Fit Flat Front Pant
+event time: 2015-03-24
+summary text: Fits big
+review text: I bought this pants for my husband, usually buy the Dickies brand but this brand is somewhat big. He usually wears a 36 in the 874 Dickies but this 36 is quite big.
+
+cause event 3
+product category: Men Accessories
+product title: Tommy Hilfiger Men's 100% Leather Passcase Wallet
+event time: 2015-02-13
+summary text: Great wallet
+review text: Great wallet. Bought this for my husband for Valentines and he loves it. It's a nice colour and it fits all his cards and is not bulky. Will highly recommend.

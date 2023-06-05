@@ -1,0 +1,31 @@
+base_model: ke_anhp
+dataset: gdelt
+pred_type: relation
+
+model:
+  name: anhp
+  embedding_dim: 40
+  d_time: 16
+  d_model: 50
+  num_heads: 2
+  num_layers: 3
+  dropout: 0.083274
+
+  time_emb_size: 24
+  num_event_types_no_pad: 24
+  num_event_types_pad: 25
+  event_pad_index: 24
+  sharing_param_layer: False
+  use_ln: False
+  mc_num_sample_per_step: 20
+  train:
+    num_epochs: 50
+    lr: 0.00066
+    batch_size: 8
+    loss_function: mnce
+  thinning_params:
+    num_seqs: 100
+    num_samples: 1
+    num_exp: 500
+    look_ahead_time: 10
+    patience: 5

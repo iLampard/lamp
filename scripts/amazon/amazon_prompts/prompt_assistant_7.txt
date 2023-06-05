@@ -1,0 +1,27 @@
+cause event 1
+product category: Men Jewelry
+product title: Men's Square Face Faux Onyx Sterling Silver Ring
+event time: 2012-12-30
+summary text: Nice Look perfect size
+review text: It is the same in the picture with nice look and fit size. I like these stones and like it on my hand. will by more soon thanks.
+
+cause event 2
+product category: Women Jewelry
+product title: 925 Sterling Silver Bali Inspired Filigree Black Onyx Gemstone Triangle Fan Dangle Earrings
+event time: 2012-12-30
+summary text: TOO SMALL
+review text: It is too small on the ear, was waiting for something bigger, but same on picture. wish this is helpful.
+
+cause event 3
+product category: Women Clothing
+product title: US Fairytailes Mother of the Bride Formal Evening Dress
+event time: 2012-11-28
+summary text: amazing
+review text: Awesome with excellent clothe , nice look,  with acceptable price. With smooth touch. As described above. Keep going . I like the product and the store  i will purchase more.
+
+cause event 4
+product category: Women Watches
+product title: Swatch Ladies Watches LK294G - WW
+event time: 2012-11-28
+summary text: Nice But scratched front
+review text: It is a nice product I bought it as a gift and it is nice on hand BUT Front glasses is scratched which make a not good point for the store. It is too small on the hand , with plastic back front for the watch which gives a cheap point to the product. Like for the price and the shape and the other parts of it.

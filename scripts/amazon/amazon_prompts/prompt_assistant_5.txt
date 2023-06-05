@@ -1,0 +1,27 @@
+cause event 1
+product category: Novelty & More
+product title: Sports Katz Peace Out Socks
+event time: 2013-09-24
+summary text: Peace Out Socks
+review text: We ordered these for soccer for my daughter and they worked out well. They are very cute and have held up. They are a quite thick, which is why I only gave them 4 stars. They will work better for fall season; I would not recommend them for summer soccer, if soccer is your intended use.
+
+cause event 2
+product category: Luggage & Travel Gear
+product title: Wildkin Pink Retro Kickstart Messenger Bag
+event time: 2013-09-09
+summary text: Wildkin Kickstart Messenger Bag
+review text: My daughter, going to 4th grade, wanted a messenger type bag this year for school. I searched and searched on Amazon for the perfect bag, but all of the adult bags seemed huge (like they would definately look funny with her carrying them). Thank goodness I found this bag. It is the perfect size for her, and her favorite color! The quality is excellent and the shoulder pad is very padded. It is large enough to carry a 3 ring binder, folders, and probably 2 (not huge) school books. I would not recommend this bag for an older school kid who had to carry around many books and binders, obviously, as this line (Wildkin) is made for children. I would highly recommend this bag for an elementary school student age group, it is wonderfully made, with lots of small pockets on the inside!
+
+cause event 3
+product category: Children Clothing
+product title: Levi's Girls' 715 Thick Stitch Bootcut Jean
+event time: 2013-09-01
+summary text: Thick Stitch Bootcut Jeans
+review text: I love Levis and this style is sooo cute! My daughter even likes them! The price was amazing in these, as we found similar Levis at Dillard's for $36. The waist of these Levi in particular run small compared to other Levis of the same size. During the Levis sale on Amazon, we purchased these, the Sweetie Skimmers, and the Scooter. All of the others ran almost half an inch larger in the waist. I worry the larger size would be huge on her, but I think I will try the larger size, as they must be comfortable on her or she will not wear them.
+
+cause event 4
+product category: Children Shoes
+product title: New Balance KJ750 Running Running Shoe (Lttle Kid/Big Kid)
+event time: 2013-02-02
+summary text: Cute and durable!
+review text: I ordered these for my 8 year old daughter. She usually destroys shoes within months, but these have held up!

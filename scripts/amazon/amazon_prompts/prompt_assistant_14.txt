@@ -1,0 +1,20 @@
+cause event 1
+product category: Men Clothing
+product title: Calvin Klein Men's  Straight
+event time: 2015-07-05
+summary text: Five Stars
+review text: Wear comfortable and good style.
+
+cause event 2
+product category: Women Clothing
+product title: Levi's Women's 505 Straight Jeans
+event time: 2014-12-30
+summary text: Nice
+review text: To help a friend buy, my friend liked.
+
+cause event 3
+product category: Men Clothing
+product title: Levi's Men's 514 Straight Fit Jean
+event time: 2014-06-03
+summary text: Nice Jeans
+review text: Jeans style is very beautiful, color slightly deep than pictures, size is right, the price also is very good. Boyfriend is very like.

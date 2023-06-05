@@ -1,0 +1,3 @@
+effect event
+product category: Children Shoes
+event time: 2014-04-08

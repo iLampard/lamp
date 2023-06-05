@@ -1,0 +1,5 @@
+effect event
+event type: Investigate
+event time: 2022-05-07
+subject name: Shanghai
+object name: Mayor

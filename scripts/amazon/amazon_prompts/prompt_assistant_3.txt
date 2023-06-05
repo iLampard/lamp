@@ -1,0 +1,20 @@
+cause event 1
+product category: Children Shoes
+product title: Timberland Kids' 6" Premium Waterproof Boots for Toddlers
+event time: 2014-12-02
+summary text: Gift 4 my daughter.
+review text: My daughter has been wanting a pair for a couple of years now.  The price thru amazon was low compared to pricing in stores.  This is one of her Christmas gifts. My daughter loves them and they fit perfectly.  Arrived very early.
+
+cause event 2
+product category: Women Clothing
+product title: Flip Top Cheer/Megaphone Socks
+event time: 2014-09-18
+summary text: Five stars.
+review text: I love them. purchased these to support my daughter, a cheerleader.
+
+cause event 3
+product category: Women Watches
+product title: Geneva Platinum CZ Accented Silicone Link Watch, Large Face
+event time: 2014-05-13
+summary text: gift for my daughter.
+review text: My daughter's favorite color is green.  She loves this watch.  She had been looking for a big face watch.  She has it on today..

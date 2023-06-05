@@ -1,0 +1,5 @@
+effect event
+event type: Express intent to cooperate
+event time: 2022-06-07
+subject name: BANK OF CHINA
+object name: GOVERNOR

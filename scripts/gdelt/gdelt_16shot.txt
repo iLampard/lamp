@@ -1,0 +1,865 @@
+
+
+We will work with event data from Global Database of Events, Language, and Tone (GDELT) . I want you to do the abductive reasoning over the events that are extracted from GDELT database.
+
+I given you an effect event and you give me four or five cause events that cause the effect event to happen. Each event consists of an event headline, an event type, an event time, subject name, object name and key phrases of describing the event.
+
+The event types of the effect and cause events are restricted to 20 types, listed below in capital letters, along with the descriptions.
+1. MAKE STATEMENT: all public statements expressed verbally or in action, e.g., decline comment, make pessimistic or optimistic comments.
+2. APPEAL: all requests, proposals, suggestions and appeals, e.g., appeal for material, economic, military, judicial, intelligence or diplomatic cooperation, appeal for material, economic, military, humanitarian aid.
+3. EXPRESS INTENT TO COOPERATE: Express intent to engage in material, diplomatic cooperation, to cooperate militarily, to cooperate on judicial matters, to provide economic, military, humanitarian aid, etc.
+4. CONSULT: including all consultations and meetings, such as make a visit, host a visit, meet at a ‘third’ location, engage in mediation and negotiation.
+5. ENGAGE IN DIPLOMATIC COOPERATION: praise or endorse, defend verbally, grant diplomatic recognition. Apologize. Forgive.
+6. ENGAGE IN MATERIAL COOPERATION: Cooperate economically, militarily, judicially.
+7. PROVIDE AID: provide economic, military, humanitarian aid.
+8. YIELD: all yieldings, concessions, which includes easing administrative sanctions, restrictions on political freedoms, ban on political parties or politicians and politial dissent, all acts of returning and releasing, allowing international involvement and humanitarian access， declaring truce, easing military blockade.
+9. INVESTIGATE: all acts of investigating crime, correuption, human rights abuses, military actions.
+10. DEMAND: all demands and orders, which include acts of demanding any type of cooperations, aid, political or military reforms, rights, easing of sanctions and dissent.
+11. DISAPPROVE: express disapprovals, objections, and complaints, including acts of criticizing or denoucing, accusing of crime, human rights abuses, complaining officially and brining lawsuit against.
+12. REJECT: all rejections and refusals, which include acts of rejecting material, economic, military, judicial, intelligence opperations, rejecting any types of aid and any type of requests and plans.
+13. THREATEN: all threats, coercive or forceful warnings with serious potential repercussions, which include acts of threatening to reduce any types of aid, to boycott, to reduce or break relations, to impose sanctions or curfew, to ban political parties or politicians, to halt negotiations or mediation.
+14. PROTEST: all civilian demonstrations and other collective actions carried out as protests against the target actor, which include acts of demonstrating or rallying for any type of change, conducting strikes or boycotting anything, engaging in any protests.
+15. EXHIBIT MILITARY POSTURE: all military or police moves that fall short of the actual use of force, which include acts of mobilizing or increasing any forces.
+16. REDUCE RELATIONS: all reductions in normal, routine, or cooperative relations, which include acts of reducing or breaking any relations, aids, stopping any assistance, halting negotiations, expeling or withdrawing inspectors, observers or aid agencies.
+17. COERCE: repression, violence against civilians, or their rights or properties, which include acts of seizing or damaging properties, imposing administrative sanctions or restrictions, arresting, expeling individuals.
+18. ASSAULT: use of unconventional forms of violence which do not require high levels of organization or conventional weaponry, which include physical or sexual assault, torture, conducting bombing, assassinate.
+19. FIGHT: all uses of conventional force and acts of war typically by organized armed groups, which include imposing blocktrade, restrcting movement, occupying territory, fighting with small arms or light weapons.
+20. ENGAGE IN UNCONVENTIONAL MASS VIOLENCE: all uses of unconventional force that are meant to cause mass destruction, casualties, and suffering, which include engaging in mass expulsion, mass killing, ethnic cleansing and using weapons of mass destruction.
+
+
+
+Firstly I give you 16 examples of abductive reasoning consecutively. In each example, the first event is the effect event, the next three to five events are cause events that happen earlier.
+
+--------------------
+
+Example 1: reasoning over the event that Yellen to call for increased economic pressure on Russia at 2022-04-19. I find five cause events.
+
+
+effect event
+event headline: Yellen to call for increased economic pressure on Russia: official
+event type:   Appeal
+event time: 2022-04-19
+subject name: UNITED STATES
+object name: Russia
+key phrases: washington treasury secretary janet yellen,yellen week counterparts ramp economic pain moscow,believes russian invasion ukraine demonstrated need world.
+
+reasoning:
+cause event 1
+event headline: Tougher Russia sanctions urged over Ukraine 'war crimes'
+event type:   Yield
+event time: 2022-04-04
+subject name: RUSSIA
+object name: RUSSIA
+key phrases: sanctions targeting moscow response alleged atrocities ukrainian,leaders nato voicing horror images dead bodies,ago proposals french president emmanuel macron said.
+
+cause event 2
+event headline: PM: Ukraine to lose more than a trillion dollars due to war with Russia
+event type: Make statement
+event time: 2022-03-31
+subject name: UKRAINE
+object name: UKRAINE
+key phrases: billion shmyhal said calculating losses ukraine economy,years total trillion dollars prime minister ukraine,damages russian invasion calculated.
+
+cause event 3
+event headline: Russia Mobilizes Reinforcements from Syria and Africa to Ukraine
+event type:  Demand
+event time: 2022-03-31
+subject name: CENTRAL AFRICAN REPUBLIC
+object name: RUSSIA
+key phrases: russian forces redeploying syria possible redeployment indicates,working russian commanders ukraine mitigate high,additional leverage kremlin isw evaluating entitys.
+
+cause event 4
+event headline: Visa, Mastercard, American Express say they're suspending operations in Russia amid its invasion of Ukraine
+event type:  EXPRESS INTENT TO COOPERATE
+event time: 2022-03-06
+subject name: COMPANIES
+object name: RUSSIAN
+key phrases: american express announced suspend operations russia mastercard,banks effort comply western sanctions country visa,ukraine polices announced series statements saturday.
+
+
+# Prompt 6
+Example 2： reasoning over the event that Shanghai delays national college entrance exam at 2022-05-07. I find five cause events.
+
+effect event
+event headline: Shanghai delays national college entrance exam.
+event type:  Investigate
+event time: 2022-05-07
+subject name: Shanghai
+object name: Mayor
+key phrases: entrance exam deferred accordingly shanghai experiencing covid,19 epidemic said chen,photo shows high school.
+
+
+reasoning:
+cause event 1
+event headline: Covid-19's death toll is nearly three times higher than reported, WHO data suggests
+event type:    Engage in material cooperation
+event time: 2022-05-05
+subject name: UNITED STATES
+object name: DIRECTOR GENERAL
+key phrases: prepared victims covid 19 cemetery thessaloniki,inoculation rates lower regions worst hit recent,mitrolidis afp getty images woman stands.
+
+cause event 2
+event headline: Shanghai considers more Covid-19 curbs as lockdown enters 4th week
+event type:   FIGHT(Impose blockade, restrict movement)
+event time: 2022-04-25
+subject name: Shanghai
+object name: China
+key phrases: cases beijing fearing similar strict lockdown emergence,food long queues seen largest district chaoyang,25 million people indoors daily.
+
+cause event 3
+event headline: Shanghai to tough prevention measures as local COVID infections rise
+event type:  Decline comment
+event time: 2022-04-23
+subject name: Shanghai
+object name: CARRIER
+key phrases: covid 19 locally transmitted infections shanghai increased,situation critical challenging stage wu said news,designated hospitals died average age 88 years.
+
+cause event 4
+event headline: Shanghai intensifies lockdown
+event type:   Express intent to cooperate
+event time: 2022-03-31
+subject name: Shanghai
+object name: China
+key phrases: shanghai reported record 656 asymptomatic cases,imposing dividing city roughly huangpu river splitting,start day lockdown tomorrow locking.
+
+cause event 5
+event headline: Sticking to dynamic zero-COVID approach, China strives for balance of virus containment, economic development--China Economic Net
+event type:  Appeal
+event time: 2022-03-26
+subject name: Shanghai
+object name: Residents
+key phrases: cluster infections multiple regions china maintained policy,controlling covid 19 promoting economic social,dynamic zero covid approach.
+
+
+
+Example 3: reasoning over the event that Biden Bans Russian Oil Imports at 2022-03-08. I find five cause events.
+
+
+effect event
+event headline: Biden Bans Russian Oil Imports
+event type: Use unconventional violence
+event time: 2022-03-08
+subject name: JOE BIDEN
+object name: RUSSIA
+key phrases: joe biden announced ban russian oil imports,profiteering price gouging biden said putin win,said escalating costs war ukraine likely.
+
+
+reasoning:
+cause event 1
+event headline: Joe Biden Welcomes Visa & Mastercard's Decision To Suspend Operations In Russia
+event type:  ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-03-06
+subject name: RUSSIA
+object name: JOE BIDEN
+key phrases: conversation joe biden noted administration providing ukraine,visa mastercard suspend service russia white house,concerns attack zaporizhzhia nuclear plant
+
+cause event 2
+event headline: Putin says Ukraine's future is in doubt as cease-fires collapse
+event type: Threaten
+event time: 2022-03-06
+subject name: RUSSIA
+object name: UKRAINE
+key phrases: fighting ukraine ukrainian officials said russian,intensified shelling mariupol dropping powerful bombs residential,mourned slain children wounded soldiers fitted
+
+cause event 3
+event headline: Zelensky Urges US Lawmakers to Ban Russian Oil, Provide Fighter Jets
+event type:  Make statement
+event time: 2022-03-05
+subject name: COLONEL
+object name: RUSSIA
+key phrases: zelensky urges lawmakers ban russian oil provide,provide fighter jets ukrainian president volodymyr zelensky,exterminated nato immediately facilitate transfer fighter aircraft.
+
+cause event 4
+event headline: Marshall, Moran seek ban on Russian oil imports, urge expansion of domestic production
+event type: Use unconventional violence
+event time: 2022-03-05
+subject name: SENATOR
+object name: RUSSIA
+key phrases: kansas endorsed embargo importation russian oil,cost energy american consumers sens jerry moran,suggested international sanctions insufficient deter president.
+
+
+
+Example 4: reasoning over the event that Biden imposes sanctions against Russian oligarchs, banks for beginning of Ukraine invasion at 2022-02-22. I find five cause events.
+
+effect event
+event headline: Biden imposes sanctions against Russian oligarchs, banks for beginning of Ukraine invasion
+event type:  ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-02-22
+subject name: JOE BIDEN
+object name: RUSSIA
+key phrases: invasion ukraine warned sanctions putin went washington,separatist republics eastern ukraine government troops fought,military force outside country president joe biden
+
+reasoning:
+
+cause event 1
+event headline: Russia orders troops into rebel-held regions in Ukraine
+event type:   Make statement
+event time: 2022-02-22
+subject name: RUSSIA
+object name: REBEL
+key phrases: ukraine recognising independent states russia said troops,ambassador vasily nebenzya argued need defend rebel,afraid late night televised address nation president
+
+cause event 2
+event headline: Russia-Ukraine: Biden briefed by security advisers as Russian commanders receive invasion orders
+event type:  EXPRESS INTENT TO COOPERATE
+event time: 2022-02-20
+subject name: PRESIDENT
+object name: RUSSIA
+key phrases: story february 20th warns russia list ukrainians,united states indicates human rights violations abuses,military occupation bathsheba crocker ambassador united nations
+
+cause event 3
+event headline: Biden says he's now convinced Putin has decided to invade Ukraine, but leaves door open for diplomacy
+event type:    Consult
+event time: 2022-02-18
+subject name: PRESIDENT
+object name: UNITED STATES
+key phrases: despite assessment imminent invasion ukraine biden,secretary lloyd austin saturday said russia moving,saturday earlier friday white house
+
+cause event 4
+event headline: russia may stage violent event to justify ukraine invasion,says us
+event type:    Use conventional military force
+event time: 2022-02-18
+subject name: RUSSIA
+object name: CIVILIAN
+key phrases: security united states allies russia forced respond,deputy chief mission moscow bart gorman washington,kremlin turn accused mr biden stoking
+
+cause event 5
+event headline: Full coverage: Russian troops advance toward Ukraine capital of Kyiv
+event type:  Reject
+event time: 2022-02-17
+subject name: LAWMAKER
+object name: PRESIDENT
+key phrases: bipartisan calls biden punishing russia including sanctioning,pelosi san francisco described newest,weakened way senate minority leader mitch mcconnell
+
+
+Example 5: reasoning over the event that Russian banks rush to switch to Chinese card system at 2022-03-06. I find five cause events.
+
+effect event
+event headline: Russian banks rush to switch to Chinese card system
+event type:  CONSULT
+event time: 2022-03-06
+subject name: CHINESE
+object name: RUSSIAN
+key phrases: unionpay chinese credit card company,unionpay came sunday sberbank russia,russia announcements regarding switch
+
+
+reasoning:
+
+cause event 1
+event headline: china adopts russias denazification myth to rationalize invasion of ukraine
+event type:  Appeal
+event time: 2022-03-06
+subject name: CHINESE
+object name: TAIWAN
+key phrases: chinese officials said china respects ukraine territorial,asked putin delay planned invasion beijing olympics,attacking united states according analysis taiwan
+
+cause event 2
+event headline: Biden seeks to inflict economic pain on Putin; avoids bigger war
+event type: Disapprove
+event time: 2022-03-06
+subject name: UKRAINE
+object name: RUSSIA
+key phrases: putin war biden administration held responding,little sign deterring offensive ukraine strategy administration,unnecessary risks nuclear armed adversary caution particularly
+
+cause event 3
+event headline: Visa, Mastercard Grant Zelensky's Request, Ban All Operations in Russia
+event type: Reduce relations
+event time: 2022-03-05
+subject name: MASTERCARD
+object name: RUASSIA
+key phrases: visa mastercard suspended operations russia,valued colleagues clients partners merchants cardholders,nation invasion ukraine al kelly
+
+cause event 4
+event headline: Visa, Mastercard Suspend All Operations in Russia Effective Immediately Over Ukraine Crisis
+event type:  Appeal
+event time: 2022-03-05
+subject name: MASTERCARD
+object name: REGULATOR
+key phrases: ukraine crisis visa mastercard suspend operations russia,sanctions 05 03 2022 sputnik international,financial companies stated banned various
+
+cause event 5
+event headline: Biden imposes sanctions against Russian oligarchs, banks for beginning of Ukraine invasion
+event type:  ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-02-22
+subject name: JOE BIDEN
+object name: RUSSIA
+key phrases: invasion ukraine warned sanctions putin went washington,separatist republics eastern ukraine government troops fought,military force outside country president joe biden
+
+
+Example 6: reasoning over the event that China's covid Zero fallout plays out across world economy at 2022-03-29. I find five cause events.
+
+effect event
+event headline: China's covid Zero fallout plays out across world economy
+event type:   Provide aid
+event time: 2022-03-29
+subject name: SHANGHAI
+object name: RESIDENTS
+key phrases: nearly 90 population vaccinated,lower efficacy vaccines developed china,boosters rates lower elderly
+
+
+REASONING:
+
+cause event 1
+event headline: Int'l flights to Shanghai rescheduled amid COVID-19 resurgence
+event type:    Appeal
+event time: 2022-03-16
+subject name: SHANGHAI
+object name: CHINA
+key phrases: shanghai registered cluster new local infections recently,diversions flights 12 airports major chinese cities,101 locally transmitted asymptomatic carriers officials
+
+cause event 2
+event headline: Saudi Arabia lifts most Covid restrictions including quarantine for vaccinated arrivals
+cause type:     EXPRESS INTENT TO COOPERATE
+event time: 2022-03-06
+subject name: TRAVELLER
+object name: KINGDOM
+key phrases: 2021 coronavirus outbreak forced saudi authorities dramatically,muslim pilgrimages usually key,wearing face mask seen luggage
+
+cause event 3
+event headline: Tesla halts work at Shanghai fentityy for two days amid China COVID curbs
+event type:    ENGAGE IN MATERIAL COOPERATION
+event time: 2022-03-16
+subject name: SHANGHAI
+object name: GERMANY
+key phrases: suppliers tesla tsla suspending production shanghai fentityy,shanghai fentityy days china tightens covid restrictions,largest covid 19 outbreak years
+
+cause event 4
+event headline: China Mandates COVID-Zero Policy in Shenzhen; Locals Struggle to Source Foodng of Ukraine invasion
+event type:   Make statement
+event time: 2022-03-05
+subject name: CHINA
+object name: CHINA
+key phrases: covid zero policy shenzhen locals struggle source,food don dare come afraid infected chen,food delivered lin said know young woman
+
+cause event 5
+event headline: China welcomes 2022 with the worst week of COVID-19 dominating the virus
+event type:    Reject
+event time: 2022-01-01
+subject name: XIAN
+object name: AUTHORITIES
+key phrases: beijing continue vigilance virus china reported cases,2022 highest number local coronavirus cases seven,symptomatic cases december highest number city
+
+
+
+Example 7: reasoning over the event that China willing to work with BRICS countries to ensure global recovery at 2022-06-07. I find five cause events.
+
+
+effect event
+event headline: China willing to work with BRICS countries to ensure global recovery
+event type:    Express intent to cooperate
+event time: 2022-06-07
+subject name: BANK OF CHINA
+object name: GOVERNOR
+key phrases: global recovery pandemic brics countries enhance cooperation,china willing work members deeper richer cooperation,china finance minister liu kun said monday
+
+
+REASONING:
+cause event 1
+event headline: COVID-hit Beijing returns to work after subdued Labour Day break
+event type:  YIELD
+event time: 2022-05-05
+subject name: CHINESE
+object name: WORKER
+key phrases: zero covid policy taken china virus,stance threatens official growth target,city wuhan late 2019 increasingly
+
+
+cause event 2
+event headline: russias war against ukraine might persistently shift global supply chains
+event type:  Investigate
+event time: 2022-03-31
+subject name: RUSSIA
+object name: CRIMEA
+key phrases: ahead ukrainian russian economies recover war violence,civil wars cause significant disruptions countries production,coined term development reverse persistent negative economic
+
+
+cause event 3
+event headline: Covid-led lockdowns, closure of markets, and unseasonal rains have increased farmers_ dependence on moneylenders
+event type:  PROVIDE AID
+event time: 2022-03-22
+subject name: MAHARASHTRA
+object name: FARMER
+key phrases: 235 crore licensed private money lenders maharashtra,farmer leaders say majority individuals seeking loans,rains 2020 23 000 people
+
+cause event 4
+event headline: Air, travel industry expect fast recovery, but face burden over soaring oil prices, Ukraine war
+event type:   Engage in material cooperation
+event time: 2022-03-27
+subject name: AIRLINE
+object name: NAGOYA
+key phrases: quarantine arrival measure expected increase travelers incheon,korea completed second dose vaccines exempt self,international airport starting monday day
+
+cause event 5
+event headline: Tesla halts work at Shanghai fentityy for two days amid China COVID curbs
+event type: ENGAGE IN MATERIAL COOPERATION
+event time: 2022-03-16
+subject name: SHANGHAI
+object name: GERMANY
+key phrases: suppliers tesla tsla suspending production shanghai fentityy,shanghai fentityy days china tightens covid restrictions,largest covid 19 outbreak years
+
+
+
+
+Example 8: reasoning over the event that Russian economy starts difficult period due to restrictions at 2022-04-19. I find five cause events.
+
+effect event
+event headline: Central bank: Russian economy starts difficult period due to restrictions
+event type:  Engage in material cooperation
+event time: 2022-04-19
+subject name: CENTRAL BANK
+object name: RUSSIAN
+action_geo: Russia
+key phrases: restrictions forced reconfiguration russian economy,currency procedures central bank,parliament state duma elvira nabiullina stated
+
+
+REASONING:
+cause event 1
+event headline: Australia imposes further sanctions on Russia
+event type:  Make statement
+event time: 2022-04-01
+subject name: AUSTRALIA
+object name: RUSSIA
+key phrases: additional sanctions support ukraine zelenskyy addressed australian,australia added 25 million worth military,energy needs coal delivered
+
+
+cause event 2
+event headline: Biden seeks to inflict economic pain on Putin; avoids bigger war
+event type: Disapprove
+event time: 2022-03-05
+subject name: UKRAINE
+object name: RUSSIA
+key phrases: putin war biden administration held responding,little sign deterring offensive ukraine strategy administration,unnecessary risks nuclear armed adversary caution particularly
+
+cause event 3
+event headline: Switzerland backs full EU sanctions against Russia
+event type:  CONSULT
+event time: 2022-03-06
+subject name: SWISS
+object name: GOVERNMENT
+key phrases: neutral switzerland previously declined freezing assets russian,invasion ukraine's attack sovereignty freedom democracy population,cassis said government examine possible repercussions punitive
+
+cause event 4
+event headline: Canada ratchets up sanctions against Russia, cancels export permits
+event type:   ENGAGE IN MATERIAL COOPERATION
+event time: 2022-02-25
+subject name: CANADA
+object name: RUSSIA
+key phrases: canada announced sanctions russia thursday targeting,president vladimir putin ability continue,televised address ukrainian forces fought
+
+cause event 5
+event headline: Biden imposes sanctions against Russian oligarchs, banks for beginning of Ukraine invasion
+event type:  ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-02-22
+subject name: JOE BIDEN
+object name: RUSSIA
+key phrases: invasion ukraine warned sanctions putin went washington,separatist republics eastern ukraine government troops fought,military force outside country president joe biden
+
+
+
+Example 9: reasoning over the event that Oil Prices Top $111 As Biden SPR Buyback Plan Leaks at 2022-05-05. I find five cause events.
+
+effect event
+event headline: Oil Prices Top $111 As Biden SPR Buyback Plan Leaks
+event type:   Consult
+event time: 2022-05-05
+subject name: CARTEL
+object name: OPEC
+key phrases: biden administration purchase 60 million barrels crude,long term buyback plan oil announced,price late march 108 wti news buyback
+
+
+REASONING:
+cause event 1
+event headline: White House: Europe Determined To Ban Russian Energy Exports
+event type:  REDUCE RELATIONS
+event time: 2022-04-22
+subject name: EUROPE
+object name: RUSSIAN
+key phrases: eu ban russian crude oil gas imports,allies yellen agrees eu needs reduce dependence,russia main income stream confidence europe getting
+
+
+cause event 2
+event headline: oil prices rise as europe weighs additional russia sanctions
+event type:  Engage in material cooperation
+event time: 2022-04-04
+subject name: INVESTOR
+object name: YEMEN
+key phrases: european union unlikely ban russian oil gas,release million barrels day crude months strategic,markets maintain fear bid
+
+cause event 3
+event headline: EU Considers Energy Sanctions Against Russia Over War Crimes In Ukraine
+event type:  DISAPPROVE
+event time: 2022-04-04
+subject name: THE EUROPEAN UNION
+object name: CIVILIAN
+key phrases: germany far staunchest opponents energy embargo russia,ukrainian towns vowed new wave severe sanctions,list atrocities committed european soil eu said
+
+
+
+
+Example 10: reasoning over the event that Chinese embassy in US protests against Washington Post's Taiwan-related op-ed at 2022-04-02. I find five cause events.
+
+
+effect event
+event headline: Chinese embassy in US protests against Washington Post's Taiwan-related op-ed
+event type:   Consult
+event time: 2022-04-02
+subject name: WASHINGTON
+object name: CHINESE
+key phrases: newspaper absurdly related taiwan question ongoing ukraine,washington chinese embassy united states sent letter,editorial board washington post protest op ed
+
+
+
+Reasoning:
+
+cause event 1
+event headline: Taiwan question purely China's internal affair, nothing to do with Japan: Defense Spokesperson
+event type:  Consult
+event time: 2022-03-31
+subject name: JAPAN
+object name: COLONEL
+key phrases: wu china opposes deployment nuclear,taiwan question fully completely internal affair china,individual political forces japan
+
+
+cause event 2
+event headline: Taiwan: China has launched a disinformation campaign in Chinese on the Russian invasion of Ukrain
+event type: ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-03-29
+subject name: TAIWANESE
+object name: MEDIA
+key phrases: lee discusses journalism taiwan affected war ukraine,tides_ 2020 book hong kong anti extradition,sherry hsueh li lee
+
+cause event 3
+event headline: US, Filipino forces start war drills in region facing Taiwan
+event type: REJECT
+event time: 2022-03-28
+subject name: USA
+object name: CHINA
+key phrases: combat exercises northern philippines held,warning taiwan independence supporters foreign allies china,advertisement advertisement advertisement thousands american
+
+cause event 4
+event headline: Taiwan braces itself for the unthinkable as Russia's invasion sets off alarm bells over China
+event type:  Make statement
+event time: 2022-03-05
+subject name: BEIJING
+object name: UKRAINIAN
+key phrases: fight taiwan democratic island,hand gun invading chinese army willing,said chiu chun feng 63 china
+
+cause event 5
+event headline: In New Year's speech, Taiwan president warns China against 'military adventurism'
+event type:     Make statement
+event time: 2022-01-01
+subject name: CHINESE
+object name: TAIWAN
+key phrases: maintaining regional peace stability taiwan stance succumb,taiwan president tsai ing wen marked new,claims chinese president xi jinping new year
+
+
+
+Example 11: reasoning over the event that France relaxes rules for unvaccinated travellers from UK at 2022-03-31. I find five cause events.
+
+effect event
+event headline: France relaxes rules for unvaccinated travellers from UK
+event type:   Consult
+event time: 2022-03-31
+subject name: FRANCE
+object name: TRAVELLER
+key phrases: unvaccinated travellers present negative covid test,travellers longer submit declaration sur honneur sworn,france moved uk orange green list meaning
+
+Reasoning:
+
+cause event 1
+event headline: Qatar - Saudi Arabia lifts most Covid-19 restrictions for incoming travellers
+event type:    YIELD( Ease administrative sanctions)
+event time: 2022-03-22
+subject name: DOHA
+object name: SAUDI ARABIA
+key phrases: lifting covid 19 restrictions coming saudi arabia,vaccination rates 99 percent targeted groups menafn22032022000063011010id1103890753,menafn peninsula peninsula online doha
+
+
+cause event 2
+event headline: Take That Shot and Shove It! Some States Continue to Push Vaccine Exemptions
+event type:    Appeal
+event time: 2022-03-16
+subject name: EMPLOYER
+object name: EMPLOYEE
+key phrases: requiring employee vaccinations impose specific limitations programs,montana tennessee sought ban mandates entirely enacted,covid 19 vaccination rates seeking blunt spread
+
+
+cause event 3
+event headline: France to scrap Covid-19 test requirement for vaccinated travellers
+event type:   EXPRESS INTENT TO COOPERATE
+event time: 2022-02-12
+subject name: PARIS
+object name: TRAVELLER
+key phrases: vaccination sufficient come france country coming just,travel testing regime introduced december aim limiting,phase pandemic characterised countries predominance omicron variant
+
+
+case event 4
+event headline: French tourism bosses tell Macron to scrap his travel ban on UK holidaymakers
+event type:   Appeal
+event time: 2022-01-01
+subject name: BELGIUM
+object name: PARIS
+key phrases: emmanuel macron scrap travel ban uk holidaymakers,france omicron helped drive infection numbers,said current rules incoherent fully vaccinated tourists
+
+
+case event 5
+event headline: Report: COVID-19 causes 71% drop in UK air travel
+event type:   DISAPPROVE(Criticize or denounce)
+event time: 2022-01-01
+subject name: BRUSSELS
+object name: MEDIA
+key phrases: flights operated uk 2021 compared,busiest international route london heathrow new york,popular popular routes europe following surge covid
+
+
+Example 12: reasoning over the event that Germany Drafting 'Gas' Law To Reduce Energy Dependence On Russia at 2022-05-05. I find five cause events.
+
+
+effect event
+event headline: Germany Drafting 'Gas' Law To Reduce Energy Dependence On Russia
+event type:    Appeal
+event time: 2022-05-05
+subject name: GERMANY
+object name: EUROPE
+key phrases: european commission proposal russian oil embargo germany,2024 habeck explained law reduce german permitting,law accelerated introduction lng liquefied natural gas
+
+
+Reasoning:
+
+cause event 1
+event headline: White House: Europe Determined To Ban Russian Energy Exports
+event type:  REDUCE RELATIONS
+event time: 2022-04-22
+subject name: EUROPE
+object name: RUSSIAN
+key phrases: eu ban russian crude oil gas imports,allies yellen agrees eu needs reduce dependence,russia main income stream confidence europe getting
+
+
+cause event 2
+event headline: oil prices rise as europe weighs additional russia sanctions
+event type:  Engage in material cooperation
+event time: 2022-04-04
+subject name: INVESTOR
+object name: YEMEN
+key phrases: european union unlikely ban russian oil gas,release million barrels day crude months strategic,markets maintain fear bid
+
+
+cause event 3
+event headline: G7 countries, including Canada, reject Russia's demand to pay for gas in rubles: Germany
+event type:   Reject
+event time: 2022-03-28
+subject name: UKRAINE
+object name: RUSSIA
+key phrases: pay russian natural gas exports rubles german,energy minister said prepared scenarios putin demand,euros dollars g7 statement said
+
+
+cause event 4
+event headline: Russia orders troops into rebel-held regions in Ukraine
+event type:   Make statement
+event time: 2022-02-22
+subject name: RUSSIA
+object name: REBEL
+key phrases: ukraine recognising independent states russia said troops,ambassador vasily nebenzya argued need defend rebel,afraid late night televised address nation president
+
+
+Example 13: reasoning over the event that China responsible for two in three BEVs sold worldwide in Q1 at 2022-05-05. I find five cause events.
+
+
+effect event
+event headline: China responsible for two in three BEVs sold worldwide in Q1: study
+event type:   Make statement
+event time: 2022-05-05
+subject name: GERMAN
+object name: CHINA
+key phrases: german carmakers doubled share chinese bev market,battery electric vehicles bevs sold worldwide,growth rates china continued outperform key electric
+
+
+
+Reasoning:
+
+cause event 1
+event headline: China BYD to Stop Producing Fossil-Fueled Vehicles on EV Shift
+event type:  ENGAGE IN MATERIAL COOPERATION
+event time: 2022-04-04
+subject name: BEIJING
+object name: CHNBUS
+key phrases: byd read china ev stocks,shenzhen based company produce supply components gas,carbon environmentally friendly vehicles sunday release automaker
+
+
+
+cause event 2
+event headline: byd seal ev looks like a worthy tesla model 3 competitor from china
+event type:   Appeal
+event time: 2022-04-02
+subject name: LOCAL MEDIA
+object name: CHINA
+key phrases: tesla model competitor china byd seal ev,bmw i3 edrive35l similar footprint expected upcoming,ocean themed nomenclature byd
+
+
+
+cause event 3
+event headline: January-February Global Power Battery installed TOP5 released: BYD defeats Panasonic!
+event type:   Make statement
+event time: 2022-04-02
+subject name: CHINA
+object name: Panasonic
+key phrases: battery shipments gwh market share ranking fifth,company sne research recently released data power,future business growth panasonic
+
+
+cause event 4
+event headline: Chinese auto brands gain larger market share in first two months
+event type:   Make statement
+event time: 2022-03-27
+subject name: CHINESE
+object name: MANUFACTURER
+key phrases: year february sales chinese brand passenger cars,china association automobile manufacturers market share,market share basically unchanged
+
+
+
+Example 14: reasoning over the event that US may discuss deployment of additional THAAD system to South Korea at 2022-05-05. I find five cause events.
+
+effect event
+
+event headline: US may discuss deployment of additional THAAD system to South Korea: State Dept
+event type:   Consult
+event time: 2022-05-05
+subject name: SOUTH KOREA
+object name: UNITED STATES
+key phrases: commitment defense treaty allies rok case ironclad,rok remains ironclad spokesperson added referring south,spokesperson added referring south korea official republic
+
+
+
+
+REASONING:
+
+cause event 1
+event headline: North Korea fires ballistic missile in extension of testing
+event type:   DISAPPROVE
+event time: 2022-03-06
+subject name: SOUTH KOREA
+object name: NORTH KOREAN
+key phrases: north korea saturday fired ballistic missile,launch designed test camera plans,168 miles eastward maximum altitude 560 kilometres
+
+
+cause event 2
+
+event headline: North Korea's Kim Jong-un fires 9th missile this year as World War 3 fears escalate
+event type:    Make statement
+event time: 2022-03-04
+subject name: RADIO FREE ASIA
+object name: UNITPARTY MEMBER
+key phrases: north korea latest missile fired,forces said travelled altitude 348 miles,pay stories send videos
+
+
+cause event 3
+event headline: North Korea's Kim vows to boost agriculture, defenses amid uncertainties
+event type:    EXPRESS INTENT TO COOPERATE
+event time: 2022-01-01
+subject name: RULING PARTY
+object name: UNITED STATES
+key phrases: strategies 2022 north korea,pundits said kim skipped annual new year,outbreak novel coronavirus latest gathering took
+
+
+
+Example 15: reasoning over the event that Canada is confronting a massive immigration backlog at 2022-05-07. I find five cause events.
+
+effect event
+event headline: Canada is confronting a massive immigration backlog
+event type:   Make statement
+event time: 2022-05-07
+subject name: CANADA
+object name: ATTORNEY
+key phrases: permanent residents applying passport canada,waiting hear solanki says experience canadian immigration,analyst based windsor ont million applicants
+
+REASONING:
+
+cause event 1
+event headline: Parliament of Canada supports visa-free travel from Ukraine
+event type:  ENGAGE IN DIPLOMATIC COOPERATION( Praise or endorse)
+event time: 2022-03-30
+subject name: CANADA
+object name: REGIME
+key phrases: government canada implement visa free travel ukraine,authorization eta reads adopted report mps recommend,impacted conflict condemn unwarranted unprovoked attack
+
+
+cause event 2
+event headline: Manitoba settlement agencies want federal supports extended to Ukrainians arriving in Canada
+event type:  CONSULT(host a visit)
+event time: 2022-03-29
+subject name: CANADA
+object name: MANITOBA
+key phrases: manitoba government committed welcoming helping ukrainians possible,temporary home long need roshko sister valerie,fleeing war temporary visas concern eligible
+
+
+cause event 3
+event headline: Immigration, booming population and global influence: Is this the 'heroic' Canadian dream?
+event type:  EXPRESS INTENT TO COOPERATE
+event time: 2022-01-01
+subject name: CANADA
+object name: IMMIGRANT
+key phrases: canada leading future global immigration,war young talent coming says khanna,economic benefit doing reactively stubbornly thinking good
+
+
+
+
+Example 16: reasoning over the event that Russia bans tech honchos, including Zuckerberg, from entering country at 2022-04-22. I find five cause events.
+
+effect event
+
+event headline: Russia bans tech honchos, including Zuckerberg, from entering country
+event type:   CONSULT （Make a visit）
+event time: 2022-04-22
+subject name: RUSSIA
+object name: BANK OF AMERICA
+key phrases: sanctioned russians including president vladimir,bank america george stephanopoulos host abc television,youtube apple google microsoft tech giants shut
+
+REASONING:
+cause event 1
+event headline: Visa, Mastercard, American Express say they're suspending operations in Russia amid its invasion of Ukraine
+event type:  EXPRESS INTENT TO COOPERATE
+event time: 2022-03-06
+subject name: COMPANIES
+object name: RUSSIAN
+key phrases: american express announced suspend operations russia mastercard,banks effort comply western sanctions country visa,ukraine polices announced series statements saturday.
+
+
+cause event 2
+event headline: Microsoft 'suspends' new sales of products, services in Russia
+event type:  DISAPPROVE
+event time: 2022-03-05
+subject name: MICROSOFT
+object name: RUSSIAN
+key phrases: microsoft said taken action harmful cyberattacks ukrainian,menafn afp microsoft halting new sales,wants cut business russia
+
+
+cause event 3
+event headline: Google suspends online advertising sales in Russia
+event type:   Make statement
+event time: 2022-03-04
+subject name: GOOGLE
+object name: RUSSIAN
+key phrases: google suspends online advertising sales russia,ban applies search youtube,news informs citing reuters march 2022
+
+
+cause event 4
+event headline: Biden imposes sanctions against Russian oligarchs, banks for beginning of Ukraine invasion
+event type:  ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-02-22
+subject name: JOE BIDEN
+object name: RUSSIA
+key phrases: invasion ukraine warned sanctions putin went washington,separatist republics eastern ukraine government troops fought,military force outside country president joe biden
+
+
+
+------------------
+
+
+Now I give you an effect event, and you give me three to five cause events.
+
+effect event
+event headline: Russian Billionaire Sells Bulk of Stake in Canadian Gas Producer
+event type:  Investigate
+event time: 2022-02-22
+subject name: CANADA
+object name: RUSSIA
+key phrases: makarov areti energy spv sale largest shareholder,bloomberg russian billionaire igor,canadian natural gas producer spartan delta
+
+

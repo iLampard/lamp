@@ -1,0 +1,20 @@
+cause event 1
+product category: Women Jewelry
+product title: Sterling Silver Gemstone Flower Pendant Necklace
+event time: 2015-02-13
+summary text: Perfect for little girls
+review text: Bought this for my eight year old daughter. Peridot is her birthstone and she loves it. It's dainty and pretty for any girl.
+
+cause event 2
+product category: Children Shoes
+product title: PUMA Court Point V Kids Sneaker (Infant/Toddler)
+event time: 2014-08-22
+summary text: Great school shoe!
+review text: Bought this shoe for my 8 year old and it looks pretty strong. I like that there are no laces too. The laces get pretty dirty fast.
+
+cause event 3
+product category: Children Clothing
+product title: AX44 Sunny Fashion Girls Dress Blue Rose Wedding Pageant Kids Boutique Size 9-10
+event time: 2013-12-14
+summary text: Gorgeous.
+review text: Bought this dress for my 7 year old & it's utterly gorgeous! I bought one size bigger & it fits perfect. The price is really cheap for such a well made dress. Looking forward to purchase more dresses from this seller.

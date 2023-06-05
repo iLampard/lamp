@@ -1,0 +1,20 @@
+cause event 1
+product category: Men Uniforms, Work & Safety
+product title: Carhartt Men's Canvas Work Dungaree Pant B151
+event time: 2013-11-07
+summary text: Great Pants- Carhartt quality with a thin lining
+review text: Very comfy, waist of 33 was True to size, flexible in crotch to work comfortable in warehouse. Carhart quality, with a thin, (not very heavy) flannel lining.  I have been wearing them in 20 degree weather and they keep me nice and warm, I ended up putting on suspenders as they are a little heavy to just wear with a belt, but this does not take away from the purpose, to keep you warm, and they do the job.
+
+cause event 2
+product category: Men Accessories
+product title: Danbury Men's 1 1/2" Basic Bridle Leather Work Belt
+event time: 2013-08-30
+summary text: Great Pants- Carhartt quality with a thin lining
+review text: I carry a firearm for work- this belt does the trick, the stictching seems good. I am normally a 34, but it did not give much leather after you put it through the loop, so I ordered the 36 and it is fine. You cant beat the price. I like one piece of leather which this is. With lined belts they are harder to get the holster through, and unless you spend money for genuine leather lined, you will get a "bonded" lining which is not real.
+
+cause event 3
+product category: Uniforms, Work & Safety
+product title: Carhartt Men's Canvas Work Dungaree Pant B151
+event time: 2013-07-29
+summary text: Comfortable lightweight pants
+review text: They came pretty long, so they had to be hemmed, but not a big deal. They are very comfortable, I would have been happy with one more pocket, they have the hammer loop, the usually 4 pockets, plus one thin pocket on right leg. I could have used another on left. But all in all good pants. I use them for security, and walk all day with no chafing !!

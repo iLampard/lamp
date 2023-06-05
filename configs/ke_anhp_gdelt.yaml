@@ -1,0 +1,25 @@
+data:
+  type: kg
+  data_dir: data/gdelt/gdelt.pkl
+  num_relations: 20
+  num_entities: 2279
+  context_length: 100
+  train_end_index_ratio: 0.8
+  valid_end_index_ratio: 0.9
+  test_end_index_ratio: 1.0
+  time_factor: 100.0
+
+model:
+  name: ke_anhp
+  storage_uri: logs/ke_anhp_gdelt.pt
+
+  dim_c: 4
+  dim_d: 8
+  dim_l: 8
+  num_layers: 1
+  n_heads: 1
+  dropout_rate: 0.1
+
+  num_epochs: 5
+  batch_size: 128
+  lr: 0.001

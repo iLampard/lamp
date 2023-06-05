@@ -1,0 +1,3 @@
+effect event
+product category: Women Jewelry
+event time: 2013-02-18

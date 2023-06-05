@@ -1,0 +1,27 @@
+cause event 1
+product category: Women Jewelry
+product title: Small Stainless Steel Celtic Triquetra Trinity Dangle Earrings, 1 3/4 inch
+event time: 2013-12-24
+summary text: Love these earrings
+review text: These earrings were exactly what I was expecting -- dangly, well made and looked like the picture.  I am always looking for fish hook dangly stainless steel up to sterling silver earrings.  These are joining my collection.  I often surf Amazon's site for earrings of this type and have acquired quite a number of pairs.  I will keep shopping at Amazon for these types of earrings.
+
+cause event 2
+product category: Costumes & Accessories
+product title: Sterling Silver Celtic Knot and Created Blue Sapphire Ring
+event time: 2013-10-06
+summary text: Really nice wig!
+review text:The hair on this wig is more close to natural feeling hair rather than the straw-like materials used in most Halloween wigs.  It does have to be styled and doesn't quite stand up like the picture.  I'm looking forward to wearing it with my Halloween costume:  California Costumes Deluxe Hooded Robe Adult Costume, Red/Black that I also purchased from Amazon.
+
+cause event 3
+product category: Women Jewelry
+product title: Sterling Silver Circle Link Drop Earrings, 2.16"
+event time: 2013-08-25
+summary text: These are gorgeous!
+review text:I love these earrings.  They are just the right length of dangly and are comfortable to wear.  I gave them a "4" only because when I took them out of the box, they were all tangled up and it took me about 15 minutes to get them straightened out.  I have to store them hanging down and be careful or they will tangle yet again.  I would buy another pair.
+
+cause event 4
+product category: Women Jewelry
+product title: Sterling Silver Angel Wing Drop Earrings
+event time: 2014-06-23
+summary text: These are OK
+review text: I like these earrings, but personally, they are flat and not all that pretty.  There is nothing wrong with them, just that they do not look like what I expected.
