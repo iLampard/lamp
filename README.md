@@ -1,4 +1,7 @@
-# Code for the paper "Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning"
+# Event Prediction using Large Language Models
+
+
+Code for the paper "Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning"
 
 
 ## How to Run
