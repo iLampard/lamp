@@ -69,3 +69,18 @@ python main_ebm.py
 ```
 
 For other tasks, one can simply modify the params in previous steps.
+
+
+## Reference
+
+If you use this code as part of any published research, please acknowledge the following paper 
+```
+@misc{shi2023language,
+      title={Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning}, 
+      author={Xiaoming Shi and Siqiao Xue and Kangrui Wang and Fan Zhou and James Y. Zhang and Jun Zhou and Chenhao Tan and Hongyuan Mei},
+      year={2023},
+      eprint={2305.16646},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
