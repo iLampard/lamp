@@ -1,7 +1,7 @@
 # Event Prediction using Large Language Models
 
 
-PyTorch code for the paper [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/abs/2305.16646).
+PyTorch code for the paper [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/abs/2305.16646), NeurIPS'23.
 
 
 ## How to Run
