@@ -1,27 +1,27 @@
 cause event 1
 event headline: China BYD to Stop Producing Fossil-Fueled Vehicles on EV Shift
-event type: ENGAGE IN MATERIAL COOPERATION
+event predicate: ENGAGE IN MATERIAL COOPERATION
 event time: 2022-04-04
 subject name: BEIJING
 object name: CHNBUS
 
 cause event 2
 event headline: byd seal ev looks like a worthy tesla model 3 competitor from china
-event type: Appeal
+event predicate: Appeal
 event time: 2022-04-02
 subject name: LOCAL MEDIA
 object name: CHINA
 
 cause event 3
 event headline: January-February Global Power Battery installed TOP5 released: BYD defeats Panasonic!
-event type: Make statement
+event predicate: Make statement
 event time: 2022-04-02
 subject name: CHINA
 object name: Panasonic
 
 cause event 4
 event headline: Chinese auto brands gain larger market share in first two months
-event type: Make statement
+event predicate: Make statement
 event time: 2022-03-27
 subject name: CHINESE
 object name: MANUFACTURER
