@@ -1,34 +1,34 @@
 cause event 1
 event headline: Qatar - Saudi Arabia lifts most Covid-19 restrictions for incoming travellers
-event type: YIELD( Ease administrative sanctions)
+event predicate: YIELD( Ease administrative sanctions)
 event time: 2022-03-22
 subject name: DOHA
 object name: SAUDI ARABIA
 
 cause event 2
 event headline: Take That Shot and Shove It! Some States Continue to Push Vaccine Exemptions
-event type: Appeal
+event predicate: Appeal
 event time: 2022-03-16
 subject name: EMPLOYER
 object name: EMPLOYEE
 
 cause event 3
 event headline: France to scrap Covid-19 test requirement for vaccinated travellers
-event type: EXPRESS INTENT TO COOPERATE
+event predicate: EXPRESS INTENT TO COOPERATE
 event time: 2022-02-12
 subject name: PARIS
 object name: TRAVELLER
 
 case event 4
 event headline: French tourism bosses tell Macron to scrap his travel ban on UK holidaymakers
-event type: Appeal
+event predicate: Appeal
 event time: 2022-01-01
 subject name: BELGIUM
 object name: PARIS
 
 case event 5
 event headline: Report: COVID-19 causes 71% drop in UK air travel
-event type: DISAPPROVE(Criticize or denounce)
+event predicate: DISAPPROVE(Criticize or denounce)
 event time: 2022-01-01
 subject name: BRUSSELS
 object name: MEDIA
