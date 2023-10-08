@@ -1,34 +1,34 @@
 cause event 1
 event headline: Taiwan question purely China's internal affair, nothing to do with Japan: Defense Spokesperson
-event type:  Consult
+event predicate:  Consult
 event time: 2022-03-31
 subject name: JAPAN
 object name: COLONEL
 
 cause event 2
 event headline: Taiwan: China has launched a disinformation campaign in Chinese on the Russian invasion of Ukrain
-event type: ENGAGE IN DIPLOMATIC COOPERATION
+event predicate: ENGAGE IN DIPLOMATIC COOPERATION
 event time: 2022-03-29
 subject name: TAIWANESE
 object name: MEDIA
 
 cause event 3
 event headline: US, Filipino forces start war drills in region facing Taiwan
-event type: REJECT
+event predicate: REJECT
 event time: 2022-03-28
 subject name: USA
 object name: CHINA
 
 cause event 4
 event headline: Taiwan braces itself for the unthinkable as Russia's invasion sets off alarm bells over China
-event type:  Make statement
+event predicate:  Make statement
 event time: 2022-03-05
 subject name: BEIJING
 object name: UKRAINIAN
 
 cause event 5
 event headline: In New Year's speech, Taiwan president warns China against 'military adventurism'
-event type: Make statement
+event predicate: Make statement
 event time: 2022-01-01
 subject name: CHINESE
 object name: TAIWAN
