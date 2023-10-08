@@ -1,5 +1,5 @@
 effect event
-event type: CONSULT
+event predicate: CONSULT
 event time: 2022-04-22
 subject name: RUSSIA
 object name: BANK OF AMERICA
