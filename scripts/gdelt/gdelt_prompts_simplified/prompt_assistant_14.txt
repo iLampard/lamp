@@ -1,20 +1,20 @@
 cause event 1
 event headline: North Korea fires ballistic missile in extension of testing
-event type: DISAPPROVE
+event predicate: DISAPPROVE
 event time: 2022-03-06
 subject name: SOUTH KOREA
 object name: NORTH KOREAN
 
 cause event 2
 event headline: North Korea's Kim Jong-un fires 9th missile this year as World War 3 fears escalate
-event type: Make statement
+event predicate: Make statement
 event time: 2022-03-04
 subject name: RADIO FREE ASIA
 object name: UNITPARTY MEMBER
 
 cause event 3
 event headline: North Korea's Kim vows to boost agriculture, defenses amid uncertainties
-event type: EXPRESS INTENT TO COOPERATE
+event predicate: EXPRESS INTENT TO COOPERATE
 event time: 2022-01-01
 subject name: RULING PARTY
 object name: UNITED STATES
