@@ -1,27 +1,27 @@
 cause event 1
 event headline: Visa, Mastercard, American Express say they're suspending operations in Russia amid its invasion of Ukraine
-event type:  EXPRESS INTENT TO COOPERATE
+event predicate:  EXPRESS INTENT TO COOPERATE
 event time: 2022-03-06
 subject name: COMPANIES
 object name: RUSSIAN
 
 cause event 2
 event headline: Microsoft 'suspends' new sales of products, services in Russia
-event type:  DISAPPROVE
+event predicate:  DISAPPROVE
 event time: 2022-03-05
 subject name: MICROSOFT
 object name: RUSSIAN
 
 cause event 3
 event headline: Google suspends online advertising sales in Russia
-event type:   Make statement
+event predicate:   Make statement
 event time: 2022-03-04
 subject name: GOOGLE
 object name: RUSSIAN
 
 cause event 4
 event headline: Biden imposes sanctions against Russian oligarchs, banks for beginning of Ukraine invasion
-event type:  ENGAGE IN DIPLOMATIC COOPERATION
+event predicate:  ENGAGE IN DIPLOMATIC COOPERATION
 event time: 2022-02-22
 subject name: JOE BIDEN
 object name: RUSSIA
