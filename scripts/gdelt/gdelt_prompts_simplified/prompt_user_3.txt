@@ -1,5 +1,5 @@
 effect event
-event type: Use unconventional violence
+event predicate: Use unconventional violence
 event time: 2022-03-08
 subject name: JOE BIDEN
 object name: RUSSIA
