@@ -1,6 +1,6 @@
-I given you an effect event and you give me four or five causal events. Each event consists of an event headline, an event type, an event time, subject name and object name of describing the event.
+I given you an effect event and you give me four or five cause events. Each event consists of an event headline, an event predicate, an event time, subject name and object name of describing the event.
 
-The event types of the effect and cause events are restricted to 20 types, with names (in capital letters) and the descriptions below.
+The event predicates of the effect and cause events are restricted to 20 types, with names (in capital letters) and the descriptions below.
 1. MAKE STATEMENT: decline comment, make pessimistic or optimistic comments.
 2. APPEAL: appeal for material, economic, military, humanitarian aid or cooperation.
 3. EXPRESS INTENT TO COOPERATE: Express intent to engage in material, diplomatic, military, judicial cooperation or provide aid.
