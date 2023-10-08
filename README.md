@@ -1,4 +1,4 @@
-# Event Prediction using Large Language Models
+# LAMP: LAnguage Model in event Prediction
 
 
 PyTorch code for the paper [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/abs/2305.16646), NeurIPS'23.
