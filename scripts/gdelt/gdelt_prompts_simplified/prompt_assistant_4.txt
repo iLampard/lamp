@@ -1,34 +1,34 @@
 cause event 1
 event headline: Russia orders troops into rebel-held regions in Ukraine
-event type: Make statement
+event predicate: Make statement
 event time: 2022-02-22
 subject name: RUSSIA
 object name: REBEL
 
 cause event 2
 event headline: Russia-Ukraine: Biden briefed by security advisers as Russian commanders receive invasion orders
-event type: EXPRESS INTENT TO COOPERATE
+event predicate: EXPRESS INTENT TO COOPERATE
 event time: 2022-02-20
 subject name: PRESIDENT
 object name: RUSSIA
 
 cause event 3
 event headline: Biden says he's now convinced Putin has decided to invade Ukraine, but leaves door open for diplomacy
-event type: Consult
+event predicate: Consult
 event time: 2022-02-18
 subject name: PRESIDENT
 object name: UNITED STATES
 
 cause event 4
 event headline: russia may stage violent event to justify ukraine invasion,says us
-event type: Fight
+event predicate: Fight
 event time: 2022-02-18
 subject name: RUSSIA
 object name: CIVILIAN
 
 cause event 5
 event headline: Full coverage: Russian troops advance toward Ukraine capital of Kyiv
-event type: Reject
+event predicate: Reject
 event time: 2022-02-17
 subject name: LAWMAKER
 object name: PRESIDENT
