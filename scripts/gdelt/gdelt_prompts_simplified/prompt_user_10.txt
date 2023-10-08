@@ -1,5 +1,5 @@
 effect event
-event type: Consult
+event predicate: Consult
 event time: 2022-04-02
 subject name: WASHINGTON
 object name: CHINESE
