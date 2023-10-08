@@ -1,5 +1,5 @@
 effect event
-event type: Appeal
+event predicate: Appeal
 event time: 2022-04-19
 subject name: UNITED STATES
 object name: Russia
