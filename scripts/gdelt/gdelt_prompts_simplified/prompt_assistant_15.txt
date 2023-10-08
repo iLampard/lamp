@@ -1,20 +1,20 @@
 cause event 1
 event headline: Parliament of Canada supports visa-free travel from Ukraine
-event type:  ENGAGE IN DIPLOMATIC COOPERATION( Praise or endorse)
+event predicate:  ENGAGE IN DIPLOMATIC COOPERATION( Praise or endorse)
 event time: 2022-03-30
 subject name: CANADA
 object name: REGIME
 
 cause event 2
 event headline: Manitoba settlement agencies want federal supports extended to Ukrainians arriving in Canada
-event type:  CONSULT(host a visit)
+event predicate:  CONSULT(host a visit)
 event time: 2022-03-29
 subject name: CANADA
 object name: MANITOBA
 
 cause event 3
 event headline: Immigration, booming population and global influence: Is this the 'heroic' Canadian dream?
-event type:  EXPRESS INTENT TO COOPERATE
+event predicate:  EXPRESS INTENT TO COOPERATE
 event time: 2022-01-01
 subject name: CANADA
 object name: IMMIGRANT
