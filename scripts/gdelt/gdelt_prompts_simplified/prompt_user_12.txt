@@ -1,5 +1,5 @@
 effect event
-event type: Appeal
+event predicate: Appeal
 event time: 2022-05-05
 subject name: GERMANY
 object name: EUROPE
