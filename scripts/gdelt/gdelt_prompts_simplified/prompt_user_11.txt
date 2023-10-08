@@ -1,5 +1,5 @@
 effect event
-event type: Consult
+event predicate: Consult
 event time: 2022-03-31
 subject name: FRANCE
 object name: TRAVELLER
