@@ -1,27 +1,27 @@
 cause event 1
 event headline: Tougher Russia sanctions urged over Ukraine 'war crimes'
-event type: Yield
+event predicate: Yield
 event time: 2022-04-04
 subject name: RUSSIA
 object name: RUSSIA
 
 cause event 2
 event headline: PM: Ukraine to lose more than a trillion dollars due to war with Russia
-event type: Make statement
+event predicate: Make statement
 event time: 2022-03-31
 subject name: UKRAINE
 object name: UKRAINE
 
 cause event 3
 event headline: Russia Mobilizes Reinforcements from Syria and Africa to Ukraine
-event type: Demand
+event predicate: Demand
 event time: 2022-03-31
 subject name: CENTRAL AFRICAN REPUBLIC
 object name: RUSSIA
 
 cause event 4
 event headline: Visa, Mastercard, American Express say they're suspending operations in Russia amid its invasion of Ukraine
-event type: EXPRESS INTENT TO COOPERATE
+event predicate: EXPRESS INTENT TO COOPERATE
 event time: 2022-03-06
 subject name: COMPANIES
 object name: RUSSIAN
