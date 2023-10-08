@@ -1,1 +1,1464 @@
+--------------------------------------------------------------
+Base rank: 44 LAMP rank: 38
+----- Effect event:
+event headline:Coveting wealth and possessions blind us to the 'true goods of life,' Pope Francis says
+event predicate:CONSULT
+event time:2022-07-31
+subject name:ROME
+object name:CANADA.
+----- LLM generated events:
+cause event 1
+event headline: Canada-China tensions could impact trade talks between Ottawa, ASEAN: expert
+event predicate: Make statement
+event time: 2022-07-27
+subject name: Canada
+object name: Expert
+
+cause event 2
+event headline: Italy's daily tally of new virus cases is declining
+event predicate: ENGAGE IN MATERIAL COOPERATION
+event time: 2022-07-23
+subject name: Italy
+object name: European Union
+
+cause event 3
+event headline: Canada's 2nd-quarter GDP growth tops expectations ahead of federal election
+event predicate: Make statement
+event time: 2022-07-22
+subject name: Canada
+object name: Statistics Office
+
+cause event 4
+event headline: Genoa, San Remo and Rome in 30 proposed new EU tourist routes
+event predicate: EXPRESS INTENT TO COOPERATE
+event time: 2022-07-15
+subject name: European Union
+object name: Italy
+
+cause event 5
+event headline: Italy to require 'green pass' proof of vaccination or negative COVID test for restaurant customers as cases rise
+event predicate: YIELD (Ease administrative sanctions)
+event time: 2022-07-11
+subject name: Italy
+object name: Restaurant Customers
+---- Retrieved events:
+cause event 1
+event headline:Hiker found dead in Park County,  Montana after an 'encounter with a grizzly'
+event predicate:ASSAULT
+event time:2022-03-27
+subject name:MONTANA
+object name:HIKER.
+
+
+cause event 2
+event headline:Thor Construction Founder Richard Copeland Dies At 66, Leaving Legacy Of Black Entrepreneurship
+event predicate:MAKE STATEMENT
+event time:2022-03-30
+subject name:BUSINESS
+object name:UNITED STATES.
+
+
+cause event 3
+event headline:Freehold, NJ man sentenced for dealing cocaine and firearms in Monmouth County, NJ and Ocean County,
+event predicate:YIELD
+event time:2022-04-18
+subject name:PRISON
+object name:UNITED STATES.
+
+
+cause event 4
+event headline:New Jersey County Agrees On $10 Million Settlement To Xavier Ingram, Who Was Left Paralyzed After Po
+event predicate:APPEAL
+event time:2022-05-16
+subject name:JUDGE
+object name:MAGISTRATE.
+
+
+cause event 5
+event headline:Saint-Gobain Donates over $170,000 to 21 Greater Worcester Non-Profit Organizations
+event predicate:DISAPPROVE
+event time:2022-06-22
+subject name:NORTH AMERICA
+object name:UNITED STATES.
+
+
+cause event 6
+event headline:Taylor Hawkins died in March and was the drummer for the Foo Fighters for 25 years
+event predicate:CONSULT
+event time:2022-06-26
+subject name:COLOMBIA
+object name:FIGHTER.
+
+
+cause event 7
+event headline:jen shah of real housewives of salt lake city pleads guilty to fraud faces up to 14 years in prison 01657576080
+event predicate:MAKE STATEMENT
+event time:2022-07-11
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 8
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+--------------------------------------------------------------
+Base rank: 28 LAMP rank: 26
+----- Effect event:
+event headline:Be on the lookout for fake news, especially during these elections
+event predicate:ENGAGE IN DIPLOMATIC COOPERATION
+event time:2022-07-31
+subject name:RAILA ODINGA
+object name:GERMANY.
+----- LLM generated events:
+cause event 1
+event headline: Germany opens consulate general in Kenya's coastal city of Mombasa
+event predicate: ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-06-22
+subject name: GERMANY
+object name: KENYA
+
+cause event 2
+event headline: Merkel seeks African support to tackle climate change, migration
+event predicate: APPEAL
+event time: 2022-06-20
+subject name: Angela Merkel
+object name: AFRICAN NATIONS
+
+cause event 3
+event headline: African Union agrees to road map for Libya national elections
+event predicate: ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-06-20
+subject name: AFRICAN UNION
+object name: LIBYAN AUTHORITIES
+
+cause event 4
+event headline: Odinga seeks closer trade ties with Germany
+event predicate: EXPRESS INTENT TO COOPERATE
+event time: 2022-05-15
+subject name: RAILA ODINGA
+object name: GERMAN
+
+cause event 5
+event headline: German President Frank-Walter Steinmeier visits Kenya
+event predicate: CONSULT
+event time: 2022-04-01
+subject name: FRANK-WALTER STEINMEIER
+object name: KENYA
+---- Retrieved events:
+cause event 1
+event headline:Attorney General Ford Announces MD Labs and its Co-Founders to Pay Up to $16 Million to Settle Alleg
+event predicate:REJECT
+event time:2022-04-01
+subject name:NEVADA
+object name:ACTOR.
+
+
+cause event 2
+event headline:New Jersey County Agrees On $10 Million Settlement To Xavier Ingram, Who Was Left Paralyzed After Po
+event predicate:APPEAL
+event time:2022-05-16
+subject name:JUDGE
+object name:MAGISTRATE.
+
+
+cause event 3
+event headline:The family behind Devil-Dog Dungarees, founded in the Catskills town in 1927, is thrilled that their
+event predicate:DISAPPROVE
+event time:2022-06-21
+subject name:NEW YORK CITY
+object name:BUSINESS.
+
+
+cause event 4
+event headline:jen shah of real housewives of salt lake city pleads guilty to fraud faces up to 14 years in prison 01657576080
+event predicate:MAKE STATEMENT
+event time:2022-07-11
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 5
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+cause event 6
+event headline:See inside this $170 million Miami Beach compound, with three houses and a private park, that's on the market as the most expensive home for sale in Florida
+event predicate:CONSULT
+event time:2022-07-30
+subject name:ASSEMBLAGE
+object name:MIAMI.
+
+
+--------------------------------------------------------------
+Base rank: 67 LAMP rank: 33
+----- Effect event:
+event headline:person dies months after Iowa nightclub
+event predicate:MAKE STATEMENT
+event time:2022-07-31
+subject name:ATTORNEY
+object name:GAZETTE.
+----- LLM generated events:
+cause event 1
+event headline: Hackers Leak Data for Millions of Indonesians Online
+event predicate:Investigate
+event time:2022-07-26
+subject name:INDONESIA
+object name:HACKERS
+
+cause event 2
+event headline: Microsoft warns of new malware campaign with "unusual" communication feature
+event predicate:Investigate
+event time:2022-07-27
+subject name:MICROSOFT
+object name:MALWARE
+
+cause event 3
+event headline: Biden warns about a possible ‘war’ with a major power over cyber threats
+event predicate:Make statement
+event time:2022-07-31
+subject name:JOE BIDEN
+object name:CYBER THREATS
+
+cause event 4
+event headline:Global banks, airlines and media companies hit by huge internet outage
+event predicate:Investigate
+event time:2022-07-22
+subject name:AIRLINES
+object name:INTERNET OUTAGE
+---- Retrieved events:
+cause event 1
+event headline:'Everyone as a team': Pueblo County High raises over $23,000 for Make-A-Wish Foundation
+event predicate:PROVIDE AID
+event time:2022-03-22
+subject name:SCHOOL
+object name:MAKE A WISH FOUNDATION.
+
+
+cause event 2
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 3
+event headline:Share
+All sharing options for:
+Yankees, Aaron Judge settle 2022 contract at $19 million with incenti
+event predicate:FIGHT
+event time:2022-06-24
+subject name:JUDGE
+object name:AMERICAN.
+
+
+cause event 4
+event headline:$300 per insulin vial to $30? CA will make its own diabetes drug to cut costs
+event predicate:CONSULT
+event time:2022-07-12
+subject name:UTAH
+object name:UNITED STATES.
+
+
+cause event 5
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+cause event 6
+event headline:5 Family Wineries That Show Mendocino County’s Italian-American Heritage
+event predicate:CONSULT
+event time:2022-07-29
+subject name:IMMIGRANT
+object name:UNITED STATES.
+
+
+cause event 7
+event headline:Severance packages for retiring mayor, councillors will cost Ottawa taxpayers $500,000
+event predicate:APPEAL
+event time:2022-07-31
+subject name:CANADA
+object name:CITIZEN.
+
+
+--------------------------------------------------------------
+Base rank: 55 LAMP rank: 28
+----- Effect event:
+event headline:Figueiredo-Moreno confrontation at UFC 277 was ‘f—ing rude’
+event predicate:EXPRESS INTENT TO COOPERATE
+event time:2022-07-31
+subject name:BRAZIL
+object name:FRANCE.
+----- LLM generated events:
+cause event 1
+event headline: Brazil to host major climate meeting despite virus spike
+event predicate:  ENGAGE IN DIPLOMATIC COOPERATION
+event time: 2022-07-26
+subject name: BRAZIL
+object name: UNITED NATIONS
+
+cause event 2
+event headline: France, Brazil pledge to seek Amazon rainforest cooperation
+event predicate: CONSULT
+event time: 2022-07-15
+subject name: FRANCE
+object name: BRAZIL
+
+cause event 3
+event headline: France places Amazon on agenda as G20 summit opens in Rome
+event predicate: Make statement
+event time: 2022-10-30
+subject name: FRANCE
+object name: G20
+
+cause event 4
+event headline: Brazil’s China-Sponsored Amazon Dams Set to Regain Momentum
+event predicate: EXPRESS INTENT TO COOPERATE
+event time: 2022-10-12
+subject name: BRAZIL
+object name: CHINA
+
+cause event 5
+event headline: Brazil, France seek common strategies to fight tax fraud
+event predicate: EXPRESS INTENT TO COOPERATE
+event time: 2022-07-03
+subject name: BRAZIL
+object name: FRANCE
+---- Retrieved events:
+cause event 1
+event headline:Navajo Nation Council approves $557 million for second hardship assistance checks for the Navajo people
+event predicate:ENGAGE IN DIPLOMATIC COOPERATION
+event time:2022-01-03
+subject name:UNITED STATES
+object name:NAVAJO.
+
+
+cause event 2
+event headline:Martinsville, Mooresville weather: Snow, rain expected to hit Morgan County beginning Tuesday night
+event predicate:APPEAL
+event time:2022-01-31
+subject name:UNITED STATES
+object name:RESIDENTS.
+
+
+cause event 3
+event headline:Erie County President Judge Walsh said he anticipates having retired judges Connelly, Cunningham, Di
+event predicate:DEMAND
+event time:2022-04-18
+subject name:LAWYER
+object name:COLLEGE.
+
+
+cause event 4
+event headline:jen shah of real housewives of salt lake city pleads guilty to fraud faces up to 14 years in prison 01657576080
+event predicate:MAKE STATEMENT
+event time:2022-07-11
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 5
+event headline:Jennifer Shah, center, of "The Real Housewives of Salt Lake City" reality television series, touches her face mask as she leaves Manhattan federal court, after pleading guilty to wire fraud conspiracy
+event predicate:MAKE STATEMENT
+event time:2022-07-12
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 6
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+--------------------------------------------------------------
+Base rank: 37 LAMP rank: 24
+----- Effect event:
+event headline:James Packer’s $250,000 gift to free Julian Assange
+event predicate:DISAPPROVE
+event time:2022-07-31
+subject name:AUSTRALIA
+object name:AUSTRALIA.
+----- LLM generated events:
+cause event 1
+event headline: Australians turn out in force to protest COVID-19 lockdowns
+event predicate: Protest
+event time: 2022-07-30
+subject name: AUSTRALIANS
+object name: AUSTRALIAN GOVERNMENT
+
+cause event 2
+event headline: Australian Government Monitoring Facebook Accounts to Enforce Lockdown
+event predicate: Coerce
+event time: 2022-07-28
+subject name: AUSTRALIAN GOVERNMENT
+object name: FACEBOOK USERS
+
+cause event 3
+event headline: Australia Passes Controversial Social Media Law after Protests
+event predicate: Appeal
+event time: 2022-07-26
+subject name: AUSTRALIAN GOVERNMENT
+object name: SOCIAL MEDIA COMPANIES
+
+cause event 4
+event headline: Australia: Businesses flout gender and racial anti-discrimination laws
+event predicate: Disapprove
+event time: 2022-07-25
+subject name: AUSTRALIAN BUSINESSES
+object name: AUSTRALIA
+
+cause event 5
+event headline: Australian officials rapped over US extradition of citizens
+event predicate: Disapprove
+event time: 2022-07-20
+subject name: AUSTRALIAN OFFICIALS
+object name: AUSTRALIAN CITIZENS
+---- Retrieved events:
+cause event 1
+event headline:Jury awards more than $10 million to family of Gilbert Flores, who was fatally shot by deputies
+event predicate:APPEAL
+event time:2022-03-26
+subject name:DEPUTIES
+object name:DEFENSE ATTORNEY.
+
+
+cause event 2
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 3
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+--------------------------------------------------------------
+Base rank: 57 LAMP rank: 18
+----- Effect event:
+event headline:Protégé of GOP ‘dirty trickster’ Roger Stone is running organization dedicated to helping Democrats
+event predicate:COERCE
+event time:2022-07-31
+subject name:SENATE
+object name:UNITED STATES.
+----- LLM generated events:
+cause event 1
+event headline: Senate Passes Sweeping Voting Rights Bill
+event predicate: Make statement
+event time: 2022-07-27
+subject name: SENATE DEMOCRATS
+object name: REPUBLICANS
+
+cause event 2
+event headline: 'Shameful': Republicans block voting rights bill despite Biden and Harris efforts
+event predicate: Disapprove (Criticize or denounce)
+event time: 2022-07-23
+subject name: WHITE HOUSE
+object name: REPUBLICAN PARTY
+
+cause event 3
+event headline: GOP senators test party loyalty on voting rights
+event predicate: Investigate
+event time: 2022-07-14
+subject name: REPUBLICANS
+object name: ELECTION COMMISSION
+
+cause event 4
+event headline: Democratic senators unveil new voting rights bill
+event predicate: Make statement
+event time: 2022-06-30
+subject name: SENATE DEMOCRATS
+object name: UNITED STATES
+
+cause event 5
+event headline: Republican-led states explore new voting restrictions after 2020 election
+event predicate: Reject
+event time: 2022-06-15
+subject name: LEGISLATURES
+object name: VOTERS
+---- Retrieved events:
+cause event 1
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 2
+event headline:Sharon Wheatley originated the role of Diane in Come From Away, and appeared in Avenue Q, Les Mis_©ra
+event predicate:CONSULT
+event time:2022-04-18
+subject name:COLLEGE
+object name:CINCINNATI.
+
+
+cause event 3
+event headline:Kylie Minogue and Jason Donovan join Neighbours' cast as soap films its final episode after 37 years
+event predicate:CONSULT
+event time:2022-06-10
+subject name:AUSTRALIA
+object name:COMMUNITY.
+
+
+cause event 4
+event headline:Saint-Gobain Donates over $170,000 to 21 Greater Worcester Non-Profit Organizations
+event predicate:DISAPPROVE
+event time:2022-06-22
+subject name:NORTH AMERICA
+object name:UNITED STATES.
+
+
+cause event 5
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+--------------------------------------------------------------
+Base rank: 5 LAMP rank: 3
+----- Effect event:
+event headline:Watertown’s first LGBTQ+ pride event remains mostly peaceful
+event predicate:CONSULT
+event time:2022-07-31
+subject name:RELIGION
+object name:UNITED STATES.
+----- LLM generated events:
+cause event 1
+event headline: Catholic Church announces new measures to investigate abuse, strengthen accountability
+event predicate: Investigate
+event time: 2022-07-30
+subject name: CATHOLIC CHURCH
+object name: ABUSE VICTIMS
+
+cause event 2
+event headline: US House votes to block funding for Saudi arms sale
+event predicate: Appeal
+event time: 2022-07-29
+subject name: UNITED STATES
+object name: SAUDI ARABIA
+
+cause event 3
+event headline: Pope Francis says abortion is 'murder,' urges priests to be more forgiving of women who have them
+event predicate: Make statement
+event time: 2022-07-29
+subject name: POPE FRANCIS
+object name: ABORTION
+
+cause event 4
+event headline: US state of Texas has passed a law that drastically tightens abortion laws
+event predicate: Disapprove (Criticize or denounce)
+event time: 2022-07-28
+subject name: PRO-CHOICE GROUPS
+object name: TEXAS
+
+cause event 5
+event headline: Federal Appeals Court upholds Indiana law that requires women to have an ultrasound at least 18 hours before having an abortion procedure
+event predicate: Reject
+event time: 2022-07-27
+subject name: PLANNED PARENTHOOD
+object name: INDIANA
+---- Retrieved events:
+cause event 1
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 2
+event headline:graphene market worth 7 globally by 2028 at 37 3 cagr exclusive report by the insight partners
+event predicate:ENGAGE IN MATERIAL COOPERATION
+event time:2022-04-01
+subject name:CHINA
+object name:JAPAN.
+
+
+cause event 3
+event headline:Sharon Wheatley originated the role of Diane in Come From Away, and appeared in Avenue Q, Les Mis_©ra
+event predicate:CONSULT
+event time:2022-04-18
+subject name:COLLEGE
+object name:CINCINNATI.
+
+
+cause event 4
+event headline:Jason Benson, Owner Of Paulding County's Skyren Concrete, Details Ongoing Work For Cherokee County
+event predicate:CONSULT
+event time:2022-05-05
+subject name:COMPANY
+object name:DALLAS.
+
+
+cause event 5
+event headline:Vehicle Electrification Market is expected to be worth US$ 72 Billion in 2021, with a CAGR of 10
+event predicate:ENGAGE IN DIPLOMATIC COOPERATION
+event time:2022-05-31
+subject name:GOVERNMENT
+object name:NORTH AMERICA.
+
+
+cause event 6
+event headline:Kylie Minogue and Jason Donovan join Neighbours' cast as soap films its final episode after 37 years
+event predicate:CONSULT
+event time:2022-06-10
+subject name:AUSTRALIA
+object name:COMMUNITY.
+
+
+cause event 7
+event headline:jen shah of real housewives of salt lake city pleads guilty to fraud faces up to 14 years in prison 01657576080
+event predicate:MAKE STATEMENT
+event time:2022-07-11
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 8
+event headline:Little Rock man sentenced to 9 years, ordered to pay $500,000 after pleading guilty to fraud charges, ID theft
+event predicate:MAKE STATEMENT
+event time:2022-07-29
+subject name:JUDGE
+object name:UNITED STATES.
+
+
+cause event 9
+event headline:5 Family Wineries That Show Mendocino County’s Italian-American Heritage
+event predicate:CONSULT
+event time:2022-07-29
+subject name:IMMIGRANT
+object name:UNITED STATES.
+
+
+cause event 10
+event headline:Severance packages for retiring mayor, councillors will cost Ottawa taxpayers $500,000
+event predicate:APPEAL
+event time:2022-07-31
+subject name:CANADA
+object name:CITIZEN.
+
+
+--------------------------------------------------------------
+Base rank: 53 LAMP rank: 8
+----- Effect event:
+event headline:Israel PM urges UN to dismantle rights panel over 'anti-Semitic' remarks
+event predicate:DISAPPROVE
+event time:2022-07-31
+subject name:AMBASSADOR
+object name:UNITED STATES.
+----- LLM generated events:
+cause event 1
+event headline: Chinese Ambassador to US Cui Tiankai Replaced by Qin Gang
+event predicate: Disapprove
+event time: 2022-07-29
+subject name: UNITED STATES
+object name: CHINA
+
+cause event 2
+event headline: Biden administration calls on remaining US ambassador appointees to resign by end of the year
+event predicate: Call for action
+event time: 2022-07-28
+subject name: JOE BIDEN
+object name: UNITED STATES
+
+cause event 3
+event headline: Hezbollah calls for escalating attacks against US forces in Iraq
+event predicate: Disapprove
+event time: 2022-07-26
+subject name: HEZBOLLAH
+object name: UNITED STATES
+
+cause event 4
+event headline: US tells Ethiopia's civilian leaders to reverse national security proposal or face consequences
+event predicate: Threaten
+event time: 2022-07-25
+subject name: UNITED STATES
+object name: ETHIOPIA
+
+cause event 5 
+event headline: US threatens sanctions on Angola over human rights abuses
+event predicate: Threaten
+event time:2022-07-15
+subject name: UNITED STATES
+object name: ANGOLA
+---- Retrieved events:
+cause event 1
+event headline:'Love Is Blind' Star Shayne Jansen Denies Using Drugs During Season 2 Filming
+event predicate:MAKE STATEMENT
+event time:2022-03-31
+subject name:MEXICO
+object name:NETFLIX.
+
+
+cause event 2
+event headline:Freehold, NJ man sentenced for dealing cocaine and firearms in Monmouth County, NJ and Ocean County,
+event predicate:YIELD
+event time:2022-04-18
+subject name:PRISON
+object name:UNITED STATES.
+
+
+cause event 3
+event headline:Pulaski County man said to be head of fentanyl ring given more than 12 years in prison
+event predicate:CONSULT
+event time:2022-05-05
+subject name:ATTORNEY
+object name:UNITED STATES.
+
+
+cause event 4
+event headline:north island credit union provides 5 000 in teacher grants to benefit educators students across san diego county
+event predicate:PROVIDE AID
+event time:2022-06-22
+subject name:CREDIT UNION
+object name:CREATIVITY.
+
+
+cause event 5
+event headline:Former child star played wisecracking Danny Partridge alongside David Cassidy, Shirley Jones and Sus
+event predicate:MAKE STATEMENT
+event time:2022-06-27
+subject name:UNITED STATES
+object name:ACTOR.
+
+
+cause event 6
+event headline:jen shah of real housewives of salt lake city pleads guilty to fraud faces up to 14 years in prison 01657576080
+event predicate:MAKE STATEMENT
+event time:2022-07-11
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 7
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+cause event 8
+event headline:Severance packages for retiring mayor, councillors will cost Ottawa taxpayers $500,000
+event predicate:APPEAL
+event time:2022-07-31
+subject name:CANADA
+object name:CITIZEN.
+
+
+--------------------------------------------------------------
+Base rank: 77 LAMP rank: 10
+----- Effect event:
+event headline:Canadian Airline Changes Could Make Flying Even More Hectic After This Summer
+event predicate:MAKE STATEMENT
+event time:2022-07-31
+subject name:LECTURER
+object name:BLOG.
+----- LLM generated events:
+cause event 1
+event headline: Millions of Americans don't trust the Covid vaccine. Biden's solution is simple
+event predicate: DEMAND
+event time: 2022-07-28
+subject name: JOE BIDEN
+object name: AMERICANS
+
+cause event 2
+event headline: Study: mRNA vaccines reduce long COVID risk by half
+event predicate: MAKE STATEMENT
+event time: 2022-07-25
+subject name: RESEARCHERS
+object name: MEDIA
+
+cause event 3
+event headline: FDA extends shelf life of J&J Covid vaccine, making more doses available
+event predicate: APPEAL
+event time: 2022-07-22
+subject name: FDA
+object name: JOHNSON & JOHNSON
+
+cause event 4
+event headline: Experts Warn Vaccinated People Are The New Covid “Super-Spreaders”
+event predicate: DISAPPROVE
+event time: 2022-07-19
+subject name: EXPERTS
+object name: PUBLIC
+
+cause event 5
+event headline: Covid-19 Origins: Chinese Defector Says He Has Evidence That Virus Was Man-Made
+event predicate: INVESTIGATE
+event time: 2022-07-04
+subject name: CHINA
+object name: COVID-19
+---- Retrieved events:
+cause event 1
+event headline:Explore Murrieta, a California hidden gem with an average of over 250 days of sunshine every year, has a plethora of events for the family vacationers, outdoor adventurers and everyone in between as S
+event predicate:INVESTIGATE
+event time:2022-03-28
+subject name:TRAVELER
+object name:CALIFORNIA.
+
+
+cause event 2
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 3
+event headline:Freehold, NJ man sentenced for dealing cocaine and firearms in Monmouth County, NJ and Ocean County,
+event predicate:YIELD
+event time:2022-04-18
+subject name:PRISON
+object name:UNITED STATES.
+
+
+cause event 4
+event headline:Pulaski County man said to be head of fentanyl ring given more than 12 years in prison
+event predicate:CONSULT
+event time:2022-05-05
+subject name:ATTORNEY
+object name:UNITED STATES.
+
+
+cause event 5
+event headline:jen shah of real housewives of salt lake city pleads guilty to fraud faces up to 14 years in prison 01657576080
+event predicate:MAKE STATEMENT
+event time:2022-07-11
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 6
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+cause event 7
+event headline:hollywood ryan gosling plays a reluctant spy in the gray man out now in the uae
+event predicate:INVESTIGATE
+event time:2022-07-18
+subject name:MERCENARY
+object name:NETFLIX.
+
+
+cause event 8
+event headline:Little Rock man sentenced to 9 years, ordered to pay $500,000 after pleading guilty to fraud charges, ID theft
+event predicate:MAKE STATEMENT
+event time:2022-07-29
+subject name:JUDGE
+object name:UNITED STATES.
+
+
+--------------------------------------------------------------
+Base rank: 34 LAMP rank: 24
+----- Effect event:
+event headline:Indian-American Sentenced To Jail For Defrauding Senior Citizens
+event predicate:MAKE STATEMENT
+event time:2022-07-31
+subject name:ILLINOIS
+object name:ATTORNEY.
+----- LLM generated events:
+cause event 1
+event headline: Police accountability bill with more oversight, use of force training becomes law in Illinois
+event predicate: Make statement
+event time: 2022-07-30
+subject name: ILLINOIS LAWMAKERS
+object name: PUBLIC
+
+cause event 2
+event headline: Illinois Gov. J.B. Pritzker signs bill to expand Medicaid coverage of telehealth services
+event predicate: Express intent to cooperate
+event time: 2022-07-28
+subject name: GOV. J.B. PRITZKER
+object name: HEALTHCARE PROVIDERS
+
+cause event 3
+event headline: Court overturns injunction against vaccine mandate for Illinois schools and day cares
+event predicate: Reject
+event time: 2022-07-27
+subject name: ILLINOIS STATE BOARD OF EDUCATION
+object name: PARENTS
+
+cause event 4
+event headline: Illinois cannabis sales continue to hit new record highs, excise and sales taxes generated massive revenue
+event predicate: Engage in material cooperation
+event time: 2022-07-25
+subject name: ILLINOIS DISPENSARIES
+object name: STATE TREASURY
+
+cause event 5
+event headline: Massive influx of refugees into Illinois could be game-changer for Democrats
+event predicate: Make statement
+event time: 2022-07-22
+subject name: POLITICAL ANALYSTS
+object name: ILLINOIS
+---- Retrieved events:
+cause event 1
+event headline:Manchester-born ITV journalist Gary Burgess leaves heartbreaking posthumous letter after death at 46
+event predicate:CONSULT
+event time:2022-01-02
+subject name:UNITED KINGDOM
+object name:SCHOOL.
+
+
+cause event 2
+event headline:Earlier, Indian Oil Corporation, the nation's top oil firm, had bought three million barrels of Urals through Vitol for May delivery at a discount of $20-$25 a barrel to dated Brent
+event predicate:THREATEN
+event time:2022-03-28
+subject name:RUSSIA
+object name:UKRAINE.
+
+
+cause event 3
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 4
+event headline:Jeff Bezos, founder of Amazon, has a net worth of $182 billion
+event predicate:PROVIDE AID
+event time:2022-05-05
+subject name:BUSINESS
+object name:SEATTLE.
+
+
+cause event 5
+event headline:Kylie Minogue and Jason Donovan join Neighbours' cast as soap films its final episode after 37 years
+event predicate:CONSULT
+event time:2022-06-10
+subject name:AUSTRALIA
+object name:COMMUNITY.
+
+
+cause event 6
+event headline:Taylor Hawkins died in March and was the drummer for the Foo Fighters for 25 years
+event predicate:CONSULT
+event time:2022-06-26
+subject name:COLOMBIA
+object name:FIGHTER.
+
+
+cause event 7
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+cause event 8
+event headline:hollywood ryan gosling plays a reluctant spy in the gray man out now in the uae
+event predicate:INVESTIGATE
+event time:2022-07-18
+subject name:MERCENARY
+object name:NETFLIX.
+
+
+cause event 9
+event headline:Russia, China trade turnover could reach $165-$170 bln in 2022
+event predicate:APPEAL
+event time:2022-07-28
+subject name:RUSSIA
+object name:CHINA.
+
+
+--------------------------------------------------------------
+Base rank: 78 LAMP rank: 48
+----- Effect event:
+event headline:Rationalisation of Dobashis- Much Awaited and Welcome Move
+event predicate:CONSULT
+event time:2022-07-31
+subject name:NAGALAND
+object name:CHIEF JUSTICE.
+----- LLM generated events:
+cause event 1
+event headline: Assam Rifles confiscates illegal arms, ammunition in Mizoram, two held
+event predicate: Investivate
+event time: 2022-07-27
+subject name: Mizoram
+object name: Assam Rifles
+
+cause event 2
+event headline: Security beefed up in Nagaland
+event predicate: Make statement
+event time: 2022-07-20
+subject name: Nagaland Police
+object name: Public
+
+cause event 3
+event headline: Three Security Personnel Killed Incl. 2 In Nagaland Ambush And One In Manipur
+event predicate: Fight
+event time: 2022-07-15
+subject name: Insurgents
+object name: Security Personnel
+
+cause event 4
+event headline: Nagaland Governor Ravi moots joint military-civil operations in Maoist-hit districts
+event predicate: Consult
+event time: 2022-07-10
+subject name: RN Ravi
+object name: Chief Minister of Nagaland
+
+cause event 5
+event headline: Nagaland’s peace elusive after over two decades of ceasefire
+event predicate: Make statement
+event time: 2022-07-01
+subject name: Civil Societies
+object name: Nagaland Government
+---- Retrieved events:
+cause event 1
+event headline:Victorino announces $5,000 small business grants for restaurants, bars, and gyms : Maui Now
+event predicate:COERCE
+event time:2022-01-08
+subject name:MAYOR
+object name:BUSINESS.
+
+
+cause event 2
+event headline:Martinsville, Mooresville weather: Snow, rain expected to hit Morgan County beginning Tuesday night
+event predicate:APPEAL
+event time:2022-01-31
+subject name:UNITED STATES
+object name:RESIDENTS.
+
+
+cause event 3
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 4
+event headline:Sharon Wheatley originated the role of Diane in Come From Away, and appeared in Avenue Q, Les Mis_©ra
+event predicate:CONSULT
+event time:2022-04-18
+subject name:COLLEGE
+object name:CINCINNATI.
+
+
+cause event 5
+event headline:Brittanee Drexel went missing in 2009 while visiting Myrtle Beach on spring break, authorities said
+event predicate:CONSULT
+event time:2022-05-16
+subject name:TOURIST
+object name:UNITED STATES.
+
+
+cause event 6
+event headline:Dave Weigel was placed on a one-month unpaid suspension by the Washington Post
+event predicate:APPEAL
+event time:2022-06-07
+subject name:EMPLOYER
+object name:UNITED STATES.
+
+
+cause event 7
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+cause event 8
+event headline:United States: 
+
+                            City Of Los Angeles Raises Minimum Wage For Employees Of Some Private Healthcare Facilities To $25
+event predicate:FIGHT
+event time:2022-07-19
+subject name:EMPLOYER
+object name:WORKER.
+
+
+cause event 9
+event headline:Severance packages for retiring mayor, councillors will cost Ottawa taxpayers $500,000
+event predicate:APPEAL
+event time:2022-07-31
+subject name:CANADA
+object name:CITIZEN.
+
+
+--------------------------------------------------------------
+Base rank: 80 LAMP rank: 14
+----- Effect event:
+event headline:the cost of moving to mauritius as an entrepreneur or retiree
+event predicate:APPEAL
+event time:2022-07-31
+subject name:AFRICA
+object name:SOUTH AFRICAN.
+----- LLM generated events:
+cause event 1
+event headline: South Africa's Foreign Minister Meets With Libyan and African Union Officials in Tripoli
+event predicate: Consult (Host a visit)
+event time: 2022-07-12
+subject name: SOUTH AFRICA
+object name: AFRICAN UNION
+
+cause event 2
+event headline: South Africa suspends Zimbabwe poultry imports over bird flu
+event predicate: Express intent to cooperate (Provide aid)
+event time: 2022-06-28
+subject name: SOUTH AFRICA
+object name: ZIMBABWE
+
+cause event 3
+event headline: African Union sees conflict 'coming down the line' in Mozambique, deputy chair says
+event predicate: Express intent to cooperate (Provide aid)
+event time: 2022-06-18
+subject name: AFRICAN UNION
+object name: MOZAMBIQUE
+
+cause event 4
+event headline: South Africa to send second aircraft to Mozambique to help fight ISIS-linked militants
+event predicate: Provide aid
+event time: 2022-06-08
+subject name: SOUTH AFRICA
+object name: MOZAMBIQUE
+
+cause event 5
+event headline: Africa: United Kingdom & South African Tech Start-Ups to Collaborate
+event predicate: Express intent to cooperate (Provide aid)
+event time: 2022-05-18
+subject name: SOUTH AFRICAN
+object name: UNITED KINGDOM
+---- Retrieved events:
+cause event 1
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 2
+event headline:Texas man says he kept son's remains in kitchen for four years, police say
+event predicate:APPEAL
+event time:2022-03-31
+subject name:BOSTON
+object name:POLICE.
+
+
+cause event 3
+event headline:Freehold, NJ man sentenced for dealing cocaine and firearms in Monmouth County, NJ and Ocean County,
+event predicate:YIELD
+event time:2022-04-18
+subject name:PRISON
+object name:UNITED STATES.
+
+
+cause event 4
+event headline:jen shah of real housewives of salt lake city pleads guilty to fraud faces up to 14 years in prison 01657576080
+event predicate:MAKE STATEMENT
+event time:2022-07-11
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 5
+event headline:5 Family Wineries That Show Mendocino County’s Italian-American Heritage
+event predicate:CONSULT
+event time:2022-07-29
+subject name:IMMIGRANT
+object name:UNITED STATES.
+
+
+--------------------------------------------------------------
+Base rank: 42 LAMP rank: 8
+----- Effect event:
+event headline:The Heroes of Boulder County: The Activists
+event predicate:CONSULT
+event time:2022-07-31
+subject name:ACTIVIST
+object name:UNITED STATES.
+----- LLM generated events:
+cause event 1
+event headline: George Floyd's brother testifies on police reform, says Derek Chauvin 'stared at us' during trial
+event predicate: Make statement
+event time: 2022-07-30
+subject name: Floyd family
+object name: USA
+
+cause event 2
+event headline: US Reps. Karen Bass and Barbara Lee praise Cuba for disaster response
+event predicate: ENGAGE IN DIPLOMATIC COOPERATION(Praise or endorse)
+event time: 2022-07-25
+subject name: ENVOY
+object name: CUBA 
+
+cause event 3
+event headline: Cuba sees shortages of food, medicine amid economic crisis
+event predicate:Express intent to cooperate
+event time: 2022-07-22
+subject name: HAVANA
+object name: INTERNATIONAL COMMUNITY
+
+cause event 4
+event headline: California Bans State-Funded Travel to Texas Over 'Religious Freedom' Law
+event predicate: Reject
+event time: 2022-07-02
+subject name: CALIFORNIA
+object name: TEXAS
+
+cause event 5
+event headline: United States: President vows to protect right to vote
+event predicate: Make statement
+event time: 2022-06-21
+subject name: PRESIDENT
+object name: USA
+---- Retrieved events:
+cause event 1
+event headline:Martinsville, Mooresville weather: Snow, rain expected to hit Morgan County beginning Tuesday night
+event predicate:APPEAL
+event time:2022-01-31
+subject name:UNITED STATES
+object name:RESIDENTS.
+
+
+cause event 2
+event headline:New Jersey County Agrees On $10 Million Settlement To Xavier Ingram, Who Was Left Paralyzed After Po
+event predicate:APPEAL
+event time:2022-05-16
+subject name:JUDGE
+object name:MAGISTRATE.
+
+
+cause event 3
+event headline:Kylie Minogue and Jason Donovan join Neighbours' cast as soap films its final episode after 37 years
+event predicate:CONSULT
+event time:2022-06-10
+subject name:AUSTRALIA
+object name:COMMUNITY.
+
+
+cause event 4
+event headline:jen shah of real housewives of salt lake city pleads guilty to fraud faces up to 14 years in prison 01657576080
+event predicate:MAKE STATEMENT
+event time:2022-07-11
+subject name:NEW YORK
+object name:PRISON.
+
+
+cause event 5
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+cause event 6
+event headline:hollywood ryan gosling plays a reluctant spy in the gray man out now in the uae
+event predicate:INVESTIGATE
+event time:2022-07-18
+subject name:MERCENARY
+object name:NETFLIX.
+
+
+cause event 7
+event headline:Severance packages for retiring mayor, councillors will cost Ottawa taxpayers $500,000
+event predicate:APPEAL
+event time:2022-07-31
+subject name:CANADA
+object name:CITIZEN.
+
+
+--------------------------------------------------------------
+Base rank: 58 LAMP rank: 3
+----- Effect event:
+event headline:What Presidents Say Does Not Matter
+event predicate:CONSULT
+event time:2022-07-31
+subject name:MINIST
+object name:RUSSIA.
+----- LLM generated events:
+cause event 1
+event headline: Russia, UAE sign deal to develop hydrogen energy technologies
+event predicate: Engage in material cooperation
+event time: 2022-07-22
+subject name:UNITED ARAB EMIRATES
+object name:RUSSIA
+
+cause event 2
+event headline:  Hangzhou government delegation visits Moscow
+event predicate: Consult
+event time: 2022-07-20
+subject name: CHINA
+object name: RUSSIA
+
+cause event 3
+event headline: Moscow tourism bodies expand partnership with European counterparts
+event predicate: Engage in material cooperation
+event time: 2022-07-17
+subject name: EUROPE
+object name: MOSCOW
+
+cause event 4
+event headline: Committee on the Protection of Legislative Activity of the Moscow City Duma examined the complaint of Léon Mestel
+event predicate: Investigate
+event time:2022-06-15
+subject name:MOSCOW CITY DUMA
+object name:LÉON MESTEL 
+
+cause event 5
+event headline: Putin's party wins Russian parliamentary elections amid claims of voter fraud
+event predicate: Protest
+event time: 2022-06-05
+subject name: RUSSIA 
+object name: CITIZENS
+---- Retrieved events:
+cause event 1
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 2
+event headline:New Jersey County Agrees On $10 Million Settlement To Xavier Ingram, Who Was Left Paralyzed After Po
+event predicate:APPEAL
+event time:2022-05-16
+subject name:JUDGE
+object name:MAGISTRATE.
+
+
+cause event 3
+event headline:Saint-Gobain Donates over $170,000 to 21 Greater Worcester Non-Profit Organizations
+event predicate:DISAPPROVE
+event time:2022-06-22
+subject name:NORTH AMERICA
+object name:UNITED STATES.
+
+
+cause event 4
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
+
+
+cause event 5
+event headline:Oregon minister rebukes Marjorie Taylor Greene for touting Christian nationalism in political messages: 'She dances with the devil'
+event predicate:DISAPPROVE
+event time:2022-07-29
+subject name:OREGON
+object name:CHRISTIAN.
+
+
+cause event 6
+event headline:5 Family Wineries That Show Mendocino County’s Italian-American Heritage
+event predicate:CONSULT
+event time:2022-07-29
+subject name:IMMIGRANT
+object name:UNITED STATES.
+
+
+--------------------------------------------------------------
+Base rank: 54 LAMP rank: 42
+----- Effect event:
+event headline:Overnight Explosion Rocks Ammunition Depot In Bulgaria
+event predicate:DISAPPROVE
+event time:2022-07-31
+subject name:SOFIA
+object name:BULGARIA.
+----- LLM generated events:
+cause event 1
+event headline: Bulgarian Court Acquits Acclaimed Writer of Defamation Charges
+event predicate: Yield (Ease political sanctions)
+event time: 2022-07-01
+subject name: BULGARIA
+object name: WRITER
+
+cause event 2
+event headline: Bulgaria accused of failing to rein in abuse of EU funds
+event predicate: Disapprove (Criticize or denounce)
+event time: 2022-06-16
+subject name: EUROPEAN UNION
+object name: BULGARIA
+
+cause event 3
+event headline: Protests in Bulgaria over corruption and mafia links
+event predicate: Protest
+event time: 2022-06-01
+subject name: CITIZENS
+object name: BULGARIAN GOVERNMENT
+
+cause event 4
+event headline: Bulgaria state prosecutor sacked over corruption allegations
+event predicate: Reject
+event time: 2022-05-23
+subject name: BULGARIAN GOVERNMENT
+object name: PROSECUTOR GENERAL
+
+cause event 5
+event headline: Bulgarian Health Minister sacked after criticizing government for 'double standards' on vaccines
+event predicate: Disapprove (Criticize or denounce)
+event time: 2022-05-03
+subject name: BULGARIAN GOVERNMENT
+object name: HEALTH MINISTER
+---- Retrieved events:
+cause event 1
+event headline:Refiners bought crude sunflower oil at a record price of $2,150 a tonne, including cost, insurance a
+event predicate:CONSULT
+event time:2022-03-29
+subject name:ARGENTINA
+object name:CHIEF EXECUTIVE.
+
+
+cause event 2
+event headline:Freehold, NJ man sentenced for dealing cocaine and firearms in Monmouth County, NJ and Ocean County,
+event predicate:YIELD
+event time:2022-04-18
+subject name:PRISON
+object name:UNITED STATES.
+
+
+cause event 3
+event headline:Taylor Hawkins died in March and was the drummer for the Foo Fighters for 25 years
+event predicate:CONSULT
+event time:2022-06-26
+subject name:COLOMBIA
+object name:FIGHTER.
+
+
+cause event 4
+event headline:Some Missouri parents could receive up to $6,375 to cover the cost of their child to attend private schools, parochial schools or even some costs associated with virtual or home school
+event predicate:CONSULT
+event time:2022-07-12
+subject name:SCHOOL
+object name:MISSOURI.
 
