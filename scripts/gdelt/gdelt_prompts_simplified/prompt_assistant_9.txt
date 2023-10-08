@@ -1,20 +1,20 @@
 cause event 1
 event headline: White House: Europe Determined To Ban Russian Energy Exports
-event type:  REDUCE RELATIONS
+event predicate:  REDUCE RELATIONS
 event time: 2022-04-22
 subject name: EUROPE
 object name: RUSSIAN
 
 cause event 2
 event headline: oil prices rise as europe weighs additional russia sanctions
-event type:  Engage in material cooperation
+event predicate:  Engage in material cooperation
 event time: 2022-04-04
 subject name: INVESTOR
 object name: YEMEN
 
 cause event 3
 event headline: EU Considers Energy Sanctions Against Russia Over War Crimes In Ukraine
-event type:  DISAPPROVE
+event predicate:  DISAPPROVE
 event time: 2022-04-04
 subject name: THE EUROPEAN UNION
 object name: CIVILIAN
