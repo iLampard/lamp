@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python
+# -*- coding:utf-8 _*-
 import torch
 import torch.nn.functional as F
 
@@ -424,7 +425,7 @@ class KnowEvolveANHP(torch.nn.Module):
 
         # retrieve the latest relation and time for subject i
         # shape -> [B]
-        latest_subject_time_i = F.embedding(subject_i, latest_time_of_entity)
+        latest_subject_time_i = get_embedding(subject_i, latest_time_of_entity)
 
         latest_object_time_i = self.get_last_object_time(object_i, latest_time_of_entity)
 
@@ -535,7 +536,7 @@ class KnowEvolveANHP(torch.nn.Module):
 
         # Attention Layer
         # shape -> [B, t, d]
-        subject_seq_emb = F.embedding(subject_seq, latest_entity_emb.detach())
+        subject_seq_emb = get_embedding(subject_seq, latest_entity_emb.detach())
         object_seq_emb = self.get_object_emb(object_seq, latest_entity_emb)
         # shape -> [B, t, c]
 
@@ -563,7 +564,7 @@ class KnowEvolveANHP(torch.nn.Module):
 
         # Temporal Process
 
-        latest_subject_time_i = F.embedding(subject_i, latest_time_of_entity)
+        latest_subject_time_i = get_embedding(subject_i, latest_time_of_entity)
         latest_object_time_i = self.get_last_object_time(object_i, latest_time_of_entity)
 
         # mask the delta-time of the first relation to zero
@@ -585,10 +586,10 @@ class KnowEvolveANHP(torch.nn.Module):
         if update_memory:
             # Dynamically Evolving Entity Representations
             # use rnn to calculate the subject and object embedding ast time_i
-            latest_subject_relation_i = F.embedding(subject_seq[:, -1], latest_relation_of_entity)
+            latest_subject_relation_i = get_embedding(subject_seq[:, -1], latest_relation_of_entity)
             latest_subject_relation_emb_i = self.get_relation_emb(latest_subject_relation_i)
 
-            latest_object_relation_i = F.embedding(object_seq[:, -1], latest_relation_of_entity)
+            latest_object_relation_i = get_embedding(object_seq[:, -1], latest_relation_of_entity)
             latest_object_relation_emb_i = self.get_relation_emb(latest_object_relation_i)
 
             # shape -> [B, d * 2 + c]
@@ -737,7 +738,7 @@ class KnowEvolveANHP(torch.nn.Module):
 
         # Obtain the latest embeddings
         # shape -> [B, T, d]
-        seq_subject_emb = F.embedding(seq_subject, latest_entity_emb.detach())
+        seq_subject_emb = get_embedding(seq_subject, latest_entity_emb.detach())
         seq_object_emb = self.get_object_emb(seq_object, latest_entity_emb)
         seq_relation_emb = self.get_relation_emb(seq_relation)
 
@@ -778,7 +779,7 @@ class KnowEvolveANHP(torch.nn.Module):
         seq_object = seq_object * mask
 
         # shape -> [..., dim_d]
-        origin_emb = F.embedding(seq_object, embedding_map)
+        origin_emb = get_embedding(seq_object, embedding_map)
 
         # shape -> [dim_d]
         mean_emb = torch.mean(embedding_map, dim=0)
@@ -836,7 +837,7 @@ class KnowEvolveANHP(torch.nn.Module):
         seq_object = seq_object * mask
 
         # shape -> [...]
-        origin_time = F.embedding(seq_object, embedding_map)
+        origin_time = get_embedding(seq_object, embedding_map)
 
         # shape -> [1]
         mean_time = torch.mean(embedding_map, dim=0)
@@ -1012,3 +1013,10 @@ class RelationScoreLayer(torch.nn.Module):
         # shape -> [..., N]
         scores = self.score_out_layer(cur_evt_embs)[..., 0]
         return scores
+
+
+def get_embedding(idx, embeddings):
+    if len(embeddings.shape) < 2:
+        return F.embedding(idx, embeddings[:, None])[:, 0]
+    else:
+        return F.embedding(idx, embeddings)
